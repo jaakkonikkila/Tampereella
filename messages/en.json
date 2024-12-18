@@ -1,0 +1,9 @@
+{
+    "TopBar": {
+        "food": "Food",
+        "sports": "Sports",
+        "accommodation": "Accommodation",
+        "sights": "Sights",
+        "activities": "Activities"
+    }
+}

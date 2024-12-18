@@ -1,0 +1,9 @@
+{
+    "TopBar": {
+        "food": "Ruoka",
+        "sports": "Urheilu",
+        "accommodation": "Majoitus",
+        "sights": "Nähtävyydet",
+        "activities": "Aktiviteetit"
+    }
+}
