@@ -7,7 +7,7 @@ import {
   Spacer,
   HStack,
 } from "@chakra-ui/react";
-import { ThemeSwitcher } from "@/components/topbar/ThemeSwitcher";
+import { ColorModeButton } from "@/components/ui/color-mode";
 import { useTranslations } from "next-intl";
 import LanguageSelector from "./LanguageSelector";
 
@@ -15,7 +15,7 @@ export const Topbar = () => {
   const t = useTranslations("TopBar");
 
   return (
-    <Box as="header" px={4} py={2} boxShadow="sm">
+    <Box as="header" px={6} py={2} boxShadow="sm">
       <Flex align="center">
         {/* Logo Placeholder */}
         <Box fontWeight="bold" fontSize="xl">
@@ -41,7 +41,7 @@ export const Topbar = () => {
         </Box>
         {/* Theme Switcher */}
         <Box ml={4}>
-          <ThemeSwitcher />
+          <ColorModeButton />
         </Box>
       </Flex>
     </Box>

@@ -5,5 +5,9 @@
         "accommodation": "Accommodation",
         "sights": "Sights",
         "activities": "Activities"
+    },
+    "Footer": {
+        "websitemadewith": "This website was made with Next.js",
+        "aboutwebsite": "This website is a project of mine where I show my favourite places and activities in Tampere"
     }
 }

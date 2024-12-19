@@ -5,5 +5,9 @@
         "accommodation": "Majoitus",
         "sights": "Nähtävyydet",
         "activities": "Aktiviteetit"
+    },
+    "Footer": {
+        "websitemadewith": "Tämä sivusto on tehty Next.js:llä",
+        "aboutwebsite": "Tämä sivusto on projektini, jossa esittelen suosikkipaikkojani ja -aktiviteettejani Tampereella"
     }
 }

@@ -6,6 +6,7 @@ import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { Topbar } from "@/components/topbar/TopBar";
+import Footer from "@/components/footer/Footer";
 
 // Ensure you pass metadata with your app
 export const metadata: Metadata = {
@@ -34,14 +35,17 @@ export default async function RootLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <body>
-        <Provider>
-          <NextIntlClientProvider messages={messages}>
-            <Flex direction="column" minHeight="100vh">
-              <Topbar />
-              {children}
-            </Flex>
-          </NextIntlClientProvider>
-        </Provider>
+      <Provider>
+        <NextIntlClientProvider messages={messages}>
+        <Flex direction="column" minHeight="100vh" minWidth="100vw">
+          <Topbar />
+          <Flex flex="1" direction="column">
+          {children}
+          </Flex>
+          <Footer />
+        </Flex>
+        </NextIntlClientProvider>
+      </Provider>
       </body>
     </html>
   );
