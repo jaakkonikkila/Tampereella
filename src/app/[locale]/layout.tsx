@@ -22,7 +22,6 @@ export default async function RootLayout({
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 }) {
-
   const { locale } = await params;
 
   // Ensure that the incoming `locale` is valid
@@ -35,17 +34,17 @@ export default async function RootLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <body>
-      <Provider>
-        <NextIntlClientProvider messages={messages}>
-        <Flex direction="column" minHeight="100vh" minWidth="100vw">
-          <Topbar />
-          <Flex flex="1" direction="column">
-          {children}
-          </Flex>
-          <Footer />
-        </Flex>
-        </NextIntlClientProvider>
-      </Provider>
+        <Provider>
+          <NextIntlClientProvider messages={messages}>
+            <Flex direction="column" minHeight="100vh" width="100%">
+              <Topbar />
+              <Flex flex="1" direction="column" mx="6">
+                {children}
+              </Flex>
+              <Footer />
+            </Flex>
+          </NextIntlClientProvider>
+        </Provider>
       </body>
     </html>
   );

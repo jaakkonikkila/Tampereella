@@ -1,13 +1,17 @@
 {
-    "TopBar": {
-        "food": "Food",
-        "sports": "Sports",
-        "accommodation": "Accommodation",
-        "sights": "Sights",
-        "activities": "Activities"
-    },
-    "Footer": {
-        "websitemadewith": "This website was made with Next.js",
-        "aboutwebsite": "This website is a project of mine where I show my favourite places and activities in Tampere"
-    }
+  "TopBar": {
+    "food": "Food",
+    "sports": "Sports",
+    "accommodation": "Accommodation",
+    "sights": "Sights",
+    "activities": "Activities"
+  },
+  "Footer": {
+    "websitemadewith": "This website was made with Next.js",
+    "aboutwebsite": "This website is a project of mine where I show my favourite places and activities in Tampere"
+  },
+  "Homepage": {
+    "title": "Welcome to Tamperella web site!",
+    "description": "Tampere is the best city in Finland. It is known for its beautiful nature and many activities. This website is a project of mine where I show my favourite places and activities in Tampere. I am 100% biased, but I hope you enjoy it anyway!"
+  }
 }

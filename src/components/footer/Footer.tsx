@@ -35,9 +35,7 @@ const Footer = async () => {
 
         {/* Website Made With and GitHub Link - Right side */}
         <Flex align="center" justify={{ base: "center", md: "flex-end" }}>
-          <Text fontSize="sm" mr={2}>
-            {t("websitemadewith")}
-          </Text>
+          <Text fontSize="sm">{t("websitemadewith")}</Text>
           <Link
             href="https://github.com/jaakkonikkila/tampereella"
             target="_blank"
