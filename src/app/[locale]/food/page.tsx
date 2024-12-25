@@ -13,10 +13,10 @@ const FoodPage = () => {
     "restaurant",
     "vegetarian",
     "breakfast",
-    "citycenter",
     "€",
     "€€",
     "€€€",
+    "citycenter",
     "Hervanta",
     "Pirkkala",
   ];
