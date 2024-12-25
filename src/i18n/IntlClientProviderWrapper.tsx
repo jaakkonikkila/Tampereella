@@ -1,6 +1,7 @@
 "use client";
 
 import { NextIntlClientProvider, IntlErrorCode } from "next-intl";
+import type { AbstractIntlMessages } from "next-intl";
 
 export default function IntlClientProviderWrapper({
   children,
@@ -10,7 +11,7 @@ export default function IntlClientProviderWrapper({
     timeZone,
 }: {
   children: React.ReactNode;
-  messages: any;
+  messages: AbstractIntlMessages;
     locale: string;
     now: Date;
     timeZone: string;
