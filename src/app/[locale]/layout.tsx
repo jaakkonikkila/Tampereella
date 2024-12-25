@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Provider } from "@/components/ui/provider";
 import { Flex } from "@chakra-ui/react";
-import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
+import IntlClientProviderWrapper from "@/i18n/IntlClientProviderWrapper";
+import { getMessages, getNow, getTimeZone } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { Topbar } from "@/components/topbar/TopBar";
@@ -29,21 +29,28 @@ export default async function RootLayout({
     notFound();
   }
 
+  const now = await getNow();
+  const timeZone = await getTimeZone();
   const messages = await getMessages();
 
   return (
     <html lang={locale} suppressHydrationWarning>
       <body>
         <Provider>
-          <NextIntlClientProvider messages={messages}>
+          <IntlClientProviderWrapper // Wrap the app with the IntlClientProviderWrapper to customize getMessageFallback functionality
+            messages={messages}
+            locale={locale}
+            now={now}
+            timeZone={timeZone}
+          >
             <Flex direction="column" minHeight="100vh" width="100%">
               <Topbar />
-              <Flex flex="1" direction="column" mx="6">
+              <Flex flex="1" direction="column" mx="6" my="6">
                 {children}
               </Flex>
               <Footer />
             </Flex>
-          </NextIntlClientProvider>
+          </IntlClientProviderWrapper>
         </Provider>
       </body>
     </html>
