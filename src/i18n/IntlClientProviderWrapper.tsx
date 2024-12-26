@@ -8,15 +8,14 @@ export default function IntlClientProviderWrapper({
   messages,
   locale,
   now,
-    timeZone,
+  timeZone,
 }: {
   children: React.ReactNode;
   messages: AbstractIntlMessages;
-    locale: string;
-    now: Date;
-    timeZone: string;
+  locale: string;
+  now: Date;
+  timeZone: string;
 }) {
-
   return (
     <NextIntlClientProvider
       messages={messages}

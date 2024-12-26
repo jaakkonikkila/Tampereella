@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Grid, Flex } from "@chakra-ui/react";
+import { Grid, Flex, Center } from "@chakra-ui/react";
 import Card from "@/components/Card";
 import Filter from "@/components/Filter";
 
@@ -20,7 +20,6 @@ const FoodPage = () => {
     "Hervanta",
     "Pirkkala",
   ];
-  
 
   const mockData = [
     {
@@ -29,7 +28,7 @@ const FoodPage = () => {
       description: "Best burgers in town",
       googleMapsLink: "https://maps.google.com/?q=Burger+Palace",
       websiteLink: "https://burgerpalace.example.com",
-      badges: ["Hamburger", "€€"]
+      badges: ["Hamburger", "€€"],
     },
     {
       type: "Foodpage",
@@ -37,7 +36,7 @@ const FoodPage = () => {
       description: "Delicious wood-fired pizzas",
       googleMapsLink: "https://maps.google.com/?q=Pizza+Heaven",
       websiteLink: "https://pizzaheaven.example.com",
-      badges: ["Pizza", "€€"]
+      badges: ["Pizza", "€€"],
     },
     {
       type: "Foodpage",
@@ -45,7 +44,7 @@ const FoodPage = () => {
       description: "Fresh sushi and sashimi",
       googleMapsLink: "https://maps.google.com/?q=Sushi+World",
       websiteLink: "https://sushiworld.example.com",
-      badges: ["Sushi", "€€€"]
+      badges: ["Sushi", "€€€"],
     },
     {
       type: "Foodpage",
@@ -53,23 +52,30 @@ const FoodPage = () => {
       description: "Authentic Mexican tacos",
       googleMapsLink: "https://maps.google.com/?q=Taco+Town",
       websiteLink: "https://tacotown.example.com",
-      badges: ["Taco", "€"]
-    }
+      badges: ["Taco", "€"],
+    },
   ];
 
-  const filteredData = selectedFilters.length > 0
-    ? mockData.filter((data) =>
-        selectedFilters.every((filter) => data.badges.includes(filter))
-      )
-    : mockData;
+  const filteredData =
+    selectedFilters.length > 0
+      ? mockData.filter((data) =>
+          selectedFilters.every((filter) => data.badges.includes(filter)),
+        )
+      : mockData;
 
   const handleFilterChange = (filters: string[]) => {
     setSelectedFilters(filters);
   };
 
   return (
-    <Flex direction="column" p="6">
-      <Filter options={FilterOptions} type="Foodpage" onFilterChange={handleFilterChange} />
+    <Flex direction="column">
+      <Center mt="2" mb="6">
+        <Filter
+          options={FilterOptions}
+          type="Foodpage"
+          onFilterChange={handleFilterChange}
+        />
+      </Center>
       <Grid
         templateColumns={{
           base: "repeat(auto-fit, minmax(269px, 1fr))", // Dynamically adjust columns

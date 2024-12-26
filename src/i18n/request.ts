@@ -12,7 +12,6 @@ export default getRequestConfig(async ({ requestLocale }) => {
   }
 
   return {
-
     onError(error) {
       if (error.code === IntlErrorCode.MISSING_MESSAGE) {
         // Missing translations are expected and should be ignored

@@ -10,31 +10,32 @@ const Footer = async () => {
   return (
     <Box as="footer" py="2" px="6" boxShadow="sm" width="100%">
       <Flex
-        direction={{ base: "column", md: "row" }}
+        direction={{ base: "column", lg: "row" }}
         align="center"
         justify="space-between"
         maxW="100%"
         position="relative" // Add relative positioning for the center text
       >
         {/* Copyright Section - Left side */}
-        <Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
+        <Text fontSize="sm" textAlign={{ base: "center", lg: "left" }}>
           © {new Date().getFullYear()} Tampereella
         </Text>
 
         {/* About Website Section - Centered */}
         <Text
           fontSize="sm"
+          px="2"
           textAlign="center"
-          position={{ md: "absolute" }} // Adjust positioning for mobile
-          left={{ md: "50%" }} // Only center on larger screens
-          transform={{ md: "translateX(-50%)" }} // Only apply translate for larger screens
-          mt={{ base: 2, md: 0 }} // Add top margin for mobile, remove on larger screens
+          position={{ lg: "absolute" }} // Adjust positioning for mobile
+          left={{ lg: "50%" }} // Only center on larger screens
+          transform={{ lg: "translateX(-50%)" }} // Only apply translate for larger screens
+          mt={{ base: 2, lg: 0 }} // Add top margin for mobile, remove on larger screens
         >
           {t("aboutwebsite")}
         </Text>
 
         {/* Website Made With and GitHub Link - Right side */}
-        <Flex align="center" justify={{ base: "center", md: "flex-end" }}>
+        <Flex align="center" justify={{ base: "center", lg: "flex-end" }}>
           <Text fontSize="sm">{t("websitemadewith")}</Text>
           <Link
             href="https://github.com/jaakkonikkila/tampereella"

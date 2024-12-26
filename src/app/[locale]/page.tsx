@@ -1,20 +1,26 @@
 "use server";
 
 import { getTranslations } from "next-intl/server";
-import { Center, Heading, Text, VStack } from "@chakra-ui/react";
+import { Flex, Heading, Text, VStack } from "@chakra-ui/react";
 
 const HomePage = async () => {
   const t = await getTranslations("Homepage");
 
   return (
-    <Center minHeight="80vh">
-      <VStack gap={4}>
+    <Flex
+      flex="1"
+      mt="-10"
+      className="Homescreen"
+      direction="column"
+      justify="center"
+    >
+      <VStack gap={4} textAlign="center">
         <Heading>{t("title")}</Heading>
-        <Text maxWidth="70%" textAlign="center">
+        <Text maxWidth="90%" textAlign="center">
           {t("description")}
         </Text>
       </VStack>
-    </Center>
+    </Flex>
   );
 };
 

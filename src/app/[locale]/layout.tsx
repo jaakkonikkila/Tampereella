@@ -45,7 +45,7 @@ export default async function RootLayout({
           >
             <Flex direction="column" minHeight="100vh" width="100%">
               <Topbar />
-              <Flex flex="1" direction="column" mx="6" my="6">
+              <Flex flex="1" direction="column" mx="6" my="6" pt="50px">
                 {children}
               </Flex>
               <Footer />
