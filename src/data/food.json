@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Hamptown Burger",
+    "badges": ["restaurant", "hamburger", "€€", "citycenter"],
+    "description": "hamptowndescription",
+    "googlemapslink": "https://maps.app.goo.gl/PWAvXjwxoJSztMBW8",
+    "websitelink": "https://hamptownburger.fi/menu/"
+  },
+  {
+    "name": "Friends & Brgrs",
+    "badges": ["restaurant", "hamburger", "€", "citycenter"],
+    "description": "friendsandbrgrsdescription",
+    "googlemapslink": "https://maps.app.goo.gl/Wt96CTj9iETh5FAf7",
+    "websitelink": "https://www.friendsandbrgrs.fi/ruokalista/"
+  },
+  {
+    "name": "Pizzeria Luca",
+    "badges": ["restaurant", "pizza", "€€", "citycenter"],
+    "description": "pizzerialucadescription",
+    "googlemapslink": "https://maps.app.goo.gl/vZsDASXCv7xvQw919",
+    "websitelink": "https://www.pizzerialuca.fi/frenckell/"
+  },
+  {
+    "name": "Sitko Pizza",
+    "badges": ["restaurant", "pizza", "€€", "citycenter"],
+    "description": "sitkopizzadescription",
+    "googlemapslink": "https://maps.app.goo.gl/HiUK5vxYzpFoTmec9",
+    "websitelink": "https://sitko.pizza/menu/"
+  },
+  {
+    "name": "Panimoravintola Plevna",
+    "badges": ["restaurant", "€€€", "citycenter"],
+    "description": "panimoravintolaplevnadescription",
+    "googlemapslink": "https://maps.app.goo.gl/Wu5ACnwr7qPdcMjP9",
+    "websitelink": "https://plevna.fi/ruokalista/"
+  },
+  {
+    "name": "Osaka Teppanyaki",
+    "badges": ["restaurant", "sushi", "€€", "citycenter", "buffet", "japanese"],
+    "description": "osakateppanyakidescription",
+    "googlemapslink": "https://maps.app.goo.gl/b3YpoKp6yeA4Scw8A",
+    "websitelink": "https://www.osakateppanyaki.fi/"
+  },
+  {
+    "name": "Whatever",
+    "badges": ["restaurant", "€", "citycenter", "vegetarian", "buffet"],
+    "description": "whateverdescription",
+    "googlemapslink": "https://maps.app.goo.gl/Rgv2hn6UwGwXyAKq7",
+    "websitelink": "https://restaurant-whatever.fi/"
+  },
+  {
+    "name": "Ravintola Näsinneula",
+    "badges": ["restaurant", "€€€", "uniquelocation", "finedining"],
+    "description": "ravintolanasinneuladescription",
+    "googlemapslink": "https://maps.app.goo.gl/QRRTeG5z7CqCNZSo7",
+    "websitelink": "https://sarkanniemi.fi/fi/ravintolanasinneula#menu"
+  }
+]

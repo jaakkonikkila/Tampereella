@@ -9,7 +9,7 @@ interface CustomCardProps {
   type: string;
   title: string;
   description: string;
-  badges: string[]; // Just an array of badge labels
+  badges?: string[]; // Just an array of badge labels
   googleMapsLink?: string;
   websiteLink?: string;
 }
@@ -34,7 +34,7 @@ const CustomCard = ({
         <Card.Title>{title}</Card.Title>
         <Card.Description>{t(description)}</Card.Description>
         <HStack mt="2">
-          {badges.map((badge, index) => (
+          {badges?.map((badge, index) => (
             <Badge key={index} variant="subtle">
               {t(badge)}
             </Badge>

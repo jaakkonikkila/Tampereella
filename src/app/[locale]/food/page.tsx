@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Grid, Flex, Center } from "@chakra-ui/react";
 import Card from "@/components/Card";
 import Filter from "@/components/Filter";
+import foodData from "@/data/food.json";
 
 const FoodPage = () => {
   const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
@@ -12,56 +13,26 @@ const FoodPage = () => {
     "cafe",
     "restaurant",
     "vegetarian",
-    "breakfast",
+    "citycenter",
     "€",
     "€€",
     "€€€",
-    "citycenter",
-    "Hervanta",
-    "Pirkkala",
-  ];
-
-  const mockData = [
-    {
-      type: "Foodpage",
-      title: "Burger Palace",
-      description: "Best burgers in town",
-      googleMapsLink: "https://maps.google.com/?q=Burger+Palace",
-      websiteLink: "https://burgerpalace.example.com",
-      badges: ["Hamburger", "€€"],
-    },
-    {
-      type: "Foodpage",
-      title: "Pizza Heaven",
-      description: "Delicious wood-fired pizzas",
-      googleMapsLink: "https://maps.google.com/?q=Pizza+Heaven",
-      websiteLink: "https://pizzaheaven.example.com",
-      badges: ["Pizza", "€€"],
-    },
-    {
-      type: "Foodpage",
-      title: "Sushi World",
-      description: "Fresh sushi and sashimi",
-      googleMapsLink: "https://maps.google.com/?q=Sushi+World",
-      websiteLink: "https://sushiworld.example.com",
-      badges: ["Sushi", "€€€"],
-    },
-    {
-      type: "Foodpage",
-      title: "Taco Town",
-      description: "Authentic Mexican tacos",
-      googleMapsLink: "https://maps.google.com/?q=Taco+Town",
-      websiteLink: "https://tacotown.example.com",
-      badges: ["Taco", "€"],
-    },
+    "bbq",
+    "pizza",
+    "sushi",
+    "kebab",
+    "hamburger",
+    "chickenwings",
+    "pasta",
+    "buffet",
   ];
 
   const filteredData =
     selectedFilters.length > 0
-      ? mockData.filter((data) =>
+      ? foodData.filter((data) =>
           selectedFilters.every((filter) => data.badges.includes(filter)),
         )
-      : mockData;
+      : foodData;
 
   const handleFilterChange = (filters: string[]) => {
     setSelectedFilters(filters);
@@ -84,7 +55,15 @@ const FoodPage = () => {
         gap="6"
       >
         {filteredData.map((data, index) => (
-          <Card key={index} {...data} />
+          <Card
+            key={index}
+            type="Foodpage"
+            title={data.name}
+            description={data.description}
+            badges={data.badges}
+            googleMapsLink={data.googlemapslink}
+            websiteLink={data.websitelink}
+          />
         ))}
       </Grid>
     </Flex>
