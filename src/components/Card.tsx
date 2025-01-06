@@ -5,7 +5,6 @@ import { SiGooglemaps } from "react-icons/si";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
-import { use } from "react";
 
 interface CustomCardProps {
   type: string; // We use this to get translations
@@ -39,7 +38,9 @@ const CustomCard = ({
     >
       <Card.Body gap="1">
         <Card.Title>{title}</Card.Title>
-        <Card.Description>{locale === "en" ? descriptionEn : descriptionFi}</Card.Description>
+        <Card.Description>
+          {locale === "en" ? descriptionEn : descriptionFi}
+        </Card.Description>
         <HStack mt="2">
           {badges?.map((badge, index) => (
             <Badge key={index} variant="subtle">

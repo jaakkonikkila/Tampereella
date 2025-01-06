@@ -16,9 +16,7 @@ const HomePage = async () => {
     >
       <VStack gap={4} textAlign="center" overflow="hidden">
         <Heading>{t("title")}</Heading>
-        <Text textAlign="center">
-          {t("description")}
-        </Text>
+        <Text textAlign="center">{t("description")}</Text>
       </VStack>
     </Flex>
   );
