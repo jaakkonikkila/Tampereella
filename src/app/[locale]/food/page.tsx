@@ -59,7 +59,8 @@ const FoodPage = () => {
             key={index}
             type="Foodpage"
             title={data.name}
-            description={data.description}
+            descriptionFi={data.descriptionfi}
+            descriptionEn={data.descriptionen}
             badges={data.badges}
             googleMapsLink={data.googlemapslink}
             websiteLink={data.websitelink}

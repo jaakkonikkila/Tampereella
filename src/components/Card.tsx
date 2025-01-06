@@ -4,11 +4,13 @@ import { Card, Link, HStack, Badge } from "@chakra-ui/react";
 import { SiGooglemaps } from "react-icons/si";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 
 interface CustomCardProps {
   type: string;
   title: string;
-  description: string;
+  descriptionFi: string;
+  descriptionEn: string;
   badges?: string[]; // Just an array of badge labels
   googleMapsLink?: string;
   websiteLink?: string;
@@ -17,12 +19,15 @@ interface CustomCardProps {
 const CustomCard = ({
   type,
   title,
-  description,
+  descriptionFi,
+  descriptionEn,
   badges,
   googleMapsLink,
   websiteLink,
 }: CustomCardProps) => {
   const t = useTranslations(type);
+  const locale = useLocale();
+
   return (
     <Card.Root
       size={{ base: "md", "2xl": "lg" }}
@@ -32,7 +37,7 @@ const CustomCard = ({
     >
       <Card.Body gap="1">
         <Card.Title>{title}</Card.Title>
-        <Card.Description>{t(description)}</Card.Description>
+        <Card.Description>{locale === "en" ? descriptionEn : descriptionFi}</Card.Description>
         <HStack mt="2">
           {badges?.map((badge, index) => (
             <Badge key={index} variant="subtle">
