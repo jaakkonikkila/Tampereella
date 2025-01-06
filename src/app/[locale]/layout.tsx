@@ -43,7 +43,7 @@ export default async function RootLayout({
             now={now}
             timeZone={timeZone}
           >
-            <Flex direction="column" minHeight="100vh" width="100%">
+            <Flex direction="column" minHeight="100svh" width="100%">
               <Topbar />
               <Flex flex="1" direction="column" mx="6" my="6" pt="50px">
                 {children}

@@ -14,9 +14,9 @@ const HomePage = async () => {
       direction="column"
       justify="center"
     >
-      <VStack gap={4} textAlign="center">
+      <VStack gap={4} textAlign="center" overflow="hidden">
         <Heading>{t("title")}</Heading>
-        <Text maxWidth="90%" textAlign="center">
+        <Text textAlign="center">
           {t("description")}
         </Text>
       </VStack>

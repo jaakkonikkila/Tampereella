@@ -8,7 +8,7 @@ const Footer = async () => {
   const t = await getTranslations("Footer");
 
   return (
-    <Box as="footer" py="2" px="6" boxShadow="sm" width="100%">
+    <Box as="footer" py="2" px={{ base: 1, lg: 6 }} boxShadow="sm" width="100%">
       <Flex
         direction={{ base: "column", lg: "row" }}
         align="center"

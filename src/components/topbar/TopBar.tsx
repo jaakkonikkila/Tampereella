@@ -20,7 +20,7 @@ export const Topbar = async () => {
     <Box
       as="header"
       className="topbar"
-      px={6}
+      px={{ base: 1, lg: 6 }}
       py={2}
       top={0}
       left={0}
