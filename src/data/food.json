@@ -17,7 +17,7 @@
     },
     {
         "name": "Pizzeria Luca",
-        "badges": ["restaurant", "pizza", "€€", "citycenter"],
+        "badges": ["restaurant", "pizza", "pasta", "€€", "citycenter"],
         "descriptionfi": "Pizzeria Luca on pizzeria keskustassa, joka tarjoilee herkullisia pizzoja. Ravintolassa on mukava tunnelma ja pizzat valmistetaan tuoreista raaka-aineista. Palkittu Euroopan 18. parhaana pizzana 2021. Tämä on suosikkipizzapaikkani Tampereella!",
         "descriptionen": "Pizzeria Luca is a pizzeria in the city center that serves delicious pizzas. The restaurant has a nice atmosphere and the pizzas are made with fresh ingredients. Awarded Top 18th pizza in Europe 2021 This is my favourite pizza place in Tampere!",
         "googlemapslink": "https://maps.app.goo.gl/vZsDASXCv7xvQw919",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Pizzeria Napoli",
-        "badges": ["restaurant", "pizza", "€€", "citycenter"],
+        "badges": ["restaurant", "pizza", "pasta", "€€", "citycenter"],
         "descriptionfi": "Pizzeria Napoli on Tampereen vanhin pizzeria keskustassa. Pizzeria on suosittu paikallisten keskuudessa ja sieltä löytyy yli 100 erilaista pizzaa listalta!",
         "descriptionen": "Pizzeria Napoli is the oldest pizzeria in Tampere in the city center. The pizzeria is popular among locals and has over 100 different pizzas on the menu!",
         "googlemapslink": "https://maps.app.goo.gl/3E8dXFfu2V16YhvY7",
