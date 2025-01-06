@@ -5,9 +5,10 @@ import { SiGooglemaps } from "react-icons/si";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 import { useLocale } from "next-intl";
+import { use } from "react";
 
 interface CustomCardProps {
-  type: string;
+  type: string; // We use this to get translations
   title: string;
   descriptionFi: string;
   descriptionEn: string;
@@ -26,6 +27,7 @@ const CustomCard = ({
   websiteLink,
 }: CustomCardProps) => {
   const t = useTranslations(type);
+  const c = useTranslations("Common");
   const locale = useLocale();
 
   return (
@@ -70,7 +72,7 @@ const CustomCard = ({
             _hover={{ color: "blue.600" }}
           >
             <FaExternalLinkAlt size="1.2em" />
-            Website
+            {c("website")}
           </Link>
         )}
       </Card.Footer>

@@ -14,6 +14,9 @@
     "title": "Tervetuloa Tamperella-sivustolle!",
     "description": "Tampere on Suomen paras kaupunki. Se on tunnettu kauniista luonnostaan ja monista aktiviteeteistaan. Tämä sivusto on projektini, jossa esittelen suosikkipaikkojani ja -aktiviteettejani Tampereella. Olen 100% puolueellinen, mutta toivottavasti nautit siitä silti!"
   },
+  "Common": {
+    "website": "Nettisivu"
+  },
   "Foodpage": {
     "hamburger": "Hampurilainen",
     "cafe": "Kahvila",

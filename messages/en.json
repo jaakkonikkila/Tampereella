@@ -14,6 +14,9 @@
     "title": "Welcome to Tamperella website!",
     "description": "Tampere is the best city in Finland. It is known for its beautiful nature and many activities. This website is a project of mine where I show my favourite places and activities in Tampere. I am 100% biased, but I hope you enjoy it anyway!"
   },
+  "Common": {
+    "website": "Website"
+  },
   "Foodpage": {
     "hamburger": "Hamburger",
     "cafe": "Cafe",
