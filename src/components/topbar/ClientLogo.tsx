@@ -7,8 +7,6 @@ import { Image } from "@chakra-ui/react";
 const ClientLogo = () => {
   const { colorMode } = useColorMode();
 
-  console.log(colorMode);
-
   const logoSrc =
     colorMode === "dark"
       ? "/tampereella-logo-white.png"
