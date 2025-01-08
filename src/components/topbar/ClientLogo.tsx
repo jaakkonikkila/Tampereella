@@ -15,7 +15,13 @@ const ClientLogo = () => {
       : "/tampereella-logo-black.png";
 
   return (
-    <ClientOnly fallback={<Skeleton ><Box minWidth="190px" mt="-2" minHeight="40px"></Box> </Skeleton>}>
+    <ClientOnly
+      fallback={
+        <Skeleton>
+          <Box minWidth="190px" mt="-2" minHeight="40px"></Box>{" "}
+        </Skeleton>
+      }
+    >
       <Image
         src={logoSrc}
         alt="Tampereella"
