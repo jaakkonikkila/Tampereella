@@ -7,19 +7,29 @@ import { useTranslations } from "next-intl";
 interface FilterProps {
   options: string[];
   type: string;
+  singleSelect?: boolean; // for single selection mode
   onFilterChange: (selectedFilters: string[]) => void;
 }
 
-const Filter: React.FC<FilterProps> = ({ options, type, onFilterChange }) => {
+const Filter: React.FC<FilterProps> = ({
+  options,
+  type,
+  singleSelect = false,
+  onFilterChange,
+}) => {
   const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
   const t = useTranslations(type);
 
   const toggleFilter = (filter: string) => {
     setSelectedFilters((prev) => {
-      const newFilters = prev.includes(filter)
+      if (singleSelect) {
+        // If singleSelect is true, select only one filter
+        return prev.includes(filter) ? [] : [filter];
+      }
+      // If singleSelect is false, toggle the filter normally
+      return prev.includes(filter)
         ? prev.filter((f) => f !== filter) // Remove if already selected
         : [...prev, filter]; // Add if not selected
-      return newFilters;
     });
   };
 
