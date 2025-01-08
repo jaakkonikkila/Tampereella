@@ -1,6 +1,6 @@
 "use client";
 
-import { Card, Link, HStack, Badge } from "@chakra-ui/react";
+import { Card, Link, Flex, Badge, VStack } from "@chakra-ui/react";
 import { SiGooglemaps } from "react-icons/si";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { useTranslations } from "next-intl";
@@ -41,41 +41,45 @@ const CustomCard = ({
         <Card.Description>
           {locale === "en" ? descriptionEn : descriptionFi}
         </Card.Description>
-        <HStack mt="2">
-          {badges?.map((badge, index) => (
-            <Badge key={index} variant="subtle">
-              {t(badge)}
-            </Badge>
-          ))}
-        </HStack>
       </Card.Body>
       <Card.Footer gap="4" mt="-2">
-        {googleMapsLink && (
-          <Link
-            href={googleMapsLink}
-            target="_blank"
-            display="flex"
-            alignItems="center"
-            color="blue.500"
-            _hover={{ color: "blue.600" }}
-          >
-            <SiGooglemaps size="1.2em" />
-            Google Maps
-          </Link>
-        )}
-        {websiteLink && (
-          <Link
-            href={websiteLink}
-            target="_blank"
-            display="flex"
-            alignItems="center"
-            color="blue.500"
-            _hover={{ color: "blue.600" }}
-          >
-            <FaExternalLinkAlt size="1.2em" />
-            {c("website")}
-          </Link>
-        )}
+        <VStack gap="3" width="100%" align="start">
+          <Flex wrap="wrap" gap="2" mt="1" width="100%">
+            {badges?.map((badge, index) => (
+              <Badge key={index} variant="subtle">
+                {t(badge)}
+              </Badge>
+            ))}
+          </Flex>
+          <Flex gap="4">
+            {googleMapsLink && (
+              <Link
+                href={googleMapsLink}
+                target="_blank"
+                display="flex"
+                alignItems="center"
+                color="blue.500"
+                _hover={{ color: "blue.600" }}
+              >
+                <SiGooglemaps size="1.2em" />
+                Google Maps
+              </Link>
+            )}
+            {websiteLink && (
+              <Link
+                href={websiteLink}
+                target="_blank"
+                display="flex"
+                alignItems="center"
+                color="blue.500"
+                _hover={{ color: "blue.600" }}
+              >
+                <FaExternalLinkAlt size="1.2em" />
+                {c("website")}
+              </Link>
+            )}
+          </Flex>
+        </VStack>
       </Card.Footer>
     </Card.Root>
   );

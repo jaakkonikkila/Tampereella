@@ -42,5 +42,22 @@
     "japanese": "Japanilainen",
     "uniquelocation": "Ainutlaatuinen sijainti",
     "finedining": "Fine dining"
+  },
+  "Accoommodationpage": {
+    "hotel": "Hotelli",
+    "hostel": "Hostelli",
+    "airbnb": "Airbnb",
+    "cabin": "Mökki",
+    "camping": "Leirintäalue",
+    "citycenter": "Keskusta",
+    "sauna": "Sauna",
+    "pool": "Uima-allas",
+    "gym": "Kuntosali",
+    "breakfast": "Aamiainen",
+    "wifi": "WiFi",
+    "parking": "Pysäköinti",
+    "luxury": "Ylellinen",
+    "budget": "Budjetti",
+    "unique": "Uniikki"
   }
 }

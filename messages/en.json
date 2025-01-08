@@ -42,5 +42,22 @@
     "japanese": "Japanese",
     "uniquelocation": "Unique location",
     "finedining": "Fine dining"
+  },
+  "Accoommodationpage": {
+    "hotel": "Hotel",
+    "hostel": "Hostel",
+    "airbnb": "Airbnb",
+    "cabin": "Cabin",
+    "camping": "Camping",
+    "citycenter": "City center",
+    "sauna": "Sauna",
+    "pool": "Pool",
+    "gym": "Gym",
+    "breakfast": "Breakfast",
+    "wifi": "WiFi",
+    "parking": "Parking",
+    "luxury": "Luxury",
+    "budget": "Budget",
+    "unique": "Unique"
   }
 }
