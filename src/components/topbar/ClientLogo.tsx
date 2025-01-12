@@ -16,7 +16,7 @@ const ClientLogo = () => {
     <ClientOnly
       fallback={
         <Skeleton>
-          <Box minWidth="190px" mt="-2" minHeight="40px"></Box>{" "}
+          <Box width="177px" mt="-2" height="49px"></Box>
         </Skeleton>
       }
     >
