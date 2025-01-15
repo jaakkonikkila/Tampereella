@@ -45,9 +45,6 @@ const Drawer = () => {
             <ChakraLink href="/food" outline="none">
               {t("food")}
             </ChakraLink>
-            <ChakraLink href="/sports" outline="none">
-              {t("sports")}
-            </ChakraLink>
             <ChakraLink href="/accommodation" outline="none">
               {t("accommodation")}
             </ChakraLink>
@@ -56,6 +53,9 @@ const Drawer = () => {
             </ChakraLink>
             <ChakraLink href="/activities" outline="none">
               {t("activities")}
+            </ChakraLink>
+            <ChakraLink href="/sports" outline="none">
+              {t("sports")}
             </ChakraLink>
             <HStack gap="5">
               <LanguageSelector />
