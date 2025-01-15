@@ -59,5 +59,22 @@
     "luxury": "Ylellinen",
     "budget": "Budjetti",
     "unique": "Uniikki"
+  },
+  "Sightspage": {
+    "churches": "Kirkot",
+    "citycenter": "Keskusta",
+    "landmarks": "Maamerkit",
+    "parks": "Puistot",
+    "monuments": "Muistomerkit",
+    "noteworthylocations": "Huomionarvoiset paikat",
+    "easilyaccessible": "Helposti saavutettavissa",
+    "free": "Ilmainen",
+    "museums": "Museot",
+    "church": "Kirkko",
+    "landmark": "Maamerkki",
+    "park": "Puisto",
+    "monument": "Muistomerkki",
+    "noteworthylocation": "Huomionarvoinen paikka",
+    "museum": "Museo"
   }
 }

@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Tampereen Tuomiokirkko",
+    "badges": ["church", "citycenter", "landmark", "free"],
+    "descriptionfi": "Tampereen tuomiokirkko on yksi kaupungin tunnetuimmista maamerkeistä. Se on tunnettu erityisesti Carl von der Brüggen suunnittelemasta alttaritaulusta ja upeasta arkkitehtuurista. Vuonna 1907 valmistuneessa komeana kohoavassa graniittikirkossa on kolme tornia ja punatiiliset katot.",
+    "descriptionen": "Tampere Cathedral is one of the city's most famous landmarks. It is known for its altar painting by Carl von der Brügge and stunning architecture. The grand granite church, completed in 1907, features three towers and red brick roofs.",
+    "googlemapslink": "https://maps.app.goo.gl/1ayLYbifL9M8w7V96"
+  },
+  {
+    "name": "Kalevan kirkko",
+    "badges": ["church", "landmark"],
+    "descriptionfi": "Kalevan kirkko on moderni ja vaikuttava rakennus, jonka erikoisuus on upea arkkitehtuuri ja ainutlaatuiset sisätilat.",
+    "descriptionen": "Kaleva Church is a modern and impressive building known for its stunning architecture and unique interiors."
+  },
+  {
+    "name": "Aleksanterin kirkko",
+    "badges": ["church", "landmark", "citycenter", "free"],
+    "descriptionfi": "Aleksanterin kirkko on uusgottilainen kirrko Tampereen keskustassa. Se on nimetty keisari Alekanteri II:n mukaan. Kirkkoa ympäröi Pyynikin kirkkopuisto , joka on entinen hautausmaa.",
+    "descriptionen": "The Alexander Church is a neo-Gothic church in the center of Tampere. It is named after Emperor Alexander II. The church is surrounded by the Pyynikki Church Park, which is a former cemetery.",
+    "googlemapslink": "https://maps.app.goo.gl/rVNYBkzwxoMc5uPHA",
+    "websitelink": "https://tampereenseurakunnat.fi/kirkko_tampereella/kirkot_ja_kappelit/aleksanterin_kirkko"
+  },
+  {
+    "name": "Pyynikin näkötorni",
+    "badges": ["landmark", "park"],
+    "descriptionfi": "Herkullisista munkeistaan tuttu perinteikäs ja tunnelmallinen Pyynikin näkötornin munkkikahvila on toiminut perheyrityksenä jo yli 30 vuotta. Kahvila sijaitsee maailman suurimman soraharjun laella, joka houkuttelee ihmisiä nauttimaan Pyynikin ainutlaatuisesta luonnosta vuoden ympäri. Kauniina kirkkaana päivänä näkötornin laelta avautuvat kuvankauniit maisemat Tampereen molempien suurten järvien, Pyhäjärven ja Näsijärven yli aina ympäristökuntiin asti.",
+    "descriptionen": "The traditional and cozy Pyynikki Observation Tower's munkkikahvila, known for its delicious doughnuts, has been run as a family business for over 30 years. The café is located on top of the world's largest esker, which attracts people to enjoy Pyynikki's unique nature all year round. On a beautiful clear day, the top of the observation tower offers picturesque views over both of Tampere's large lakes, Lake Pyhäjärvi and Lake Näsijärvi, all the way to the surrounding municipalities.",
+    "googlemapslink": "https://maps.app.goo.gl/ZgCbaAfYjxy7h4cdA",
+    "websitelink": "https://www.munkkikahvila.net/nakotorni"
+  },
+  {
+    "name": "Näsinneula",
+    "badges": ["landmark", "monument"],
+    "descriptionfi": "Näsinneulan torni on Pohjoismaiden korkein näkötorni, josta avautuu henkeäsalpaavat näkymät Tampereen ympäristöön. Tornissa on myös pyörivä ravintola.",
+    "descriptionen": "Näsinneula Tower is the tallest observation tower in the Nordic countries, offering breathtaking views of the Tampere region. The tower also features a revolving restaurant.",
+    "googlemapslink": "https://maps.app.goo.gl/4QYUDvZ8rt1waq9g9",
+    "websitelink": "https://sarkanniemi.fi/fi/nasinneula"
+  },
+  {
+    "name": "Särkänniemen huvipuisto",
+    "badges": ["noteworthylocation", "park", "citycenter"],
+    "descriptionfi": "Särkänniemi on monipuolinen huvipuisto, jossa on laaja valikoima laitteita ja nähtävyyksiä. Perheen pienimmille löytyy oma alueensa.",
+    "descriptionen": "Särkänniemi is a versatile amusement park with a wide range of rides and attractions. There is also a dedicated area for younger children.",
+    "googlemapslink": "https://maps.app.goo.gl/UxVtN4Bo7o4cBtU97",
+    "websitelink": "https://sarkanniemi.fi/"
+  },
+  {
+    "name": "Pyynikin ranta",
+    "badges": ["park", "easilyaccessible"],
+    "descriptionfi": "Pyynikin ranta on suosittu ranta Pyhäjärven rannalla. Alue tarjoaa upeat maisemat ja hyvät mahdollisuudet uintiin ja sup-lautailuun.",
+    "descriptionen": "Pyynikki Beach is a popular beach by Lake Pyhäjärvi. The area offers stunning views and great opportunities for swimming and stand-up paddleboarding.",
+    "googlemapslink": "https://maps.app.goo.gl/qtA5ztGPLrLnt8ZM8"
+  },
+  {
+    "name": "Hatanpään Arboretum",
+    "badges": ["park", "free"],
+    "descriptionfi": "Hatanpään Arboretum on kaunis puutarha, jossa voi nauttia luonnon rauhasta ja kävellä monilla eri reiteillä.",
+    "descriptionen": "Hatanpää Arboretum is a beautiful garden where visitors can enjoy the tranquility of nature and walk along various trails.",
+    "googlemapslink": "https://maps.app.goo.gl/5wrxgyqQxxBiaU687"
+  },
+  {
+    "name": "Tampereen taidemuseo",
+    "badges": ["museum", "citycenter"],
+    "descriptionfi": "Tampereen taidemuseo tarjoaa laajan valikoiman suomalaisen taiteen näyttelyitä ja mielenkiintoisia kiertäviä näyttelyitä.",
+    "descriptionen": "Tampere Art Museum offers a wide range of exhibitions showcasing Finnish art, along with interesting traveling exhibitions.",
+    "googlemapslink": "https://maps.app.goo.gl/h7D5jH34hHhKQLTM6",
+    "websitelink": "https://www.tampereentaidemuseo.fi/"
+  }
+]

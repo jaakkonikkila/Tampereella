@@ -59,5 +59,22 @@
     "luxury": "Luxury",
     "budget": "Budget",
     "unique": "Unique"
+  },
+  "Sightspage": {
+    "churches": "Churches",
+    "citycenter": "City center",
+    "landmarks": "Landmarks",
+    "parks": "Parks",
+    "monuments": "Monuments",
+    "noteworthylocations": "Noteworthy locations",
+    "easilyaccessible": "Easily accessible",
+    "free": "Free",
+    "museums": "Museums",
+    "church": "Church",
+    "landmark": "Landmark",
+    "park": "Park",
+    "museum": "Museum",
+    "noteworthylocation": "Noteworthy location",
+    "monument": "Monument"
   }
 }
