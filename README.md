@@ -2,6 +2,8 @@
 
 This is a project built with Next.js 15 and Chakra UI 3, focused on providing a seamless and modern web application experience.
 
+This project showcases my ability to quickly learn and adapt to new technologies, creating a modern, efficient web application while staying up-to-date with the latest frameworks and tools.
+
 ## Technologies Used
 
 - **[Next.js 15](https://nextjs.org/)**: A powerful React framework for building fast, scalable web applications. The latest version (15) introduces improved performance, routing, and API support.
@@ -15,6 +17,7 @@ This is a project built with Next.js 15 and Chakra UI 3, focused on providing a 
 - **Dynamic Language Support**: The application supports multiple languages, automatically switching between Finnish and English based on user preferences.
 - **Responsive Design**: Ensuring a nice user experience with mobile and desktop with a responsive user interface.
 - **Dark Mode Support**: Dark mode support for those who don't want to get blinded ;)
+- **Custom reusable components**: Custom reusable components for modularity. For example Card and Filter components.
 
 ## Getting Started
 
