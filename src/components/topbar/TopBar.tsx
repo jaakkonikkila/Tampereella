@@ -42,11 +42,11 @@ export const Topbar = async () => {
           fontWeight="medium"
           display={{ base: "none", lg: "flex" }}
         >
-          <ChakraLink href="/food">{t("food")}</ChakraLink>
-          <ChakraLink href="/accommodation">{t("accommodation")}</ChakraLink>
-          <ChakraLink href="/sights">{t("sights")}</ChakraLink>
-          <ChakraLink href="/activities">{t("activities")}</ChakraLink>
-          <ChakraLink href="/sports">{t("sports")}</ChakraLink>
+          <ChakraLink href="/food" outline="none">{t("food")}</ChakraLink>
+          <ChakraLink href="/accommodation" outline="none">{t("accommodation")}</ChakraLink>
+          <ChakraLink href="/sights" outline="none">{t("sights")}</ChakraLink>
+          <ChakraLink href="/activities" outline="none">{t("activities")}</ChakraLink>
+          <ChakraLink href="/sports" outline="none">{t("sports")}</ChakraLink>
         </HStack>
 
         <Spacer />
