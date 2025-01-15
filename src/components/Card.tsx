@@ -67,7 +67,7 @@ const CustomCard = ({
             size="lg"
             positioning={{ sameWidth: true }}
           >
-            <PopoverTrigger textAlign="left">
+            <PopoverTrigger textAlign="left" outline="none">
               {truncatedDescription}
             </PopoverTrigger>
             <PopoverContent
