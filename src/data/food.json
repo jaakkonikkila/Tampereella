@@ -1,7 +1,7 @@
 [
   {
     "name": "Hamptown Burger",
-    "badges": ["restaurant", "hamburger", "€€", "citycenter"],
+    "badges": ["restaurant", "hamburger", "citycenter", "€€"],
     "descriptionfi": "Hamptown Burger on ravintola keskustassa, joka tarjoilee herkullisia smash-hampurilaisia. Myös erikoisuus Smash-perunat ovat kokeilemisen arvoisia! Tämä on suosikkiburgerpaikkani Tampereella!",
     "descriptionen": "Hamptown Burger is a restaurant in the city center that serves delicious smash hamburgers. Also specialty Smash-potatoes are worth trying! This is my favourite burger place in Tampere!",
     "googlemapslink": "https://maps.app.goo.gl/PWAvXjwxoJSztMBW8",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Friends & Brgrs",
-    "badges": ["restaurant", "hamburger", "€", "citycenter"],
+    "badges": ["restaurant", "hamburger", "citycenter", "€"],
     "descriptionfi": "Friends & Brgrs:lla on 2 ravintolaa keskustassa, jotka tarjoilee hyviä ja edullisia smash-hampurilaisia. Jos olet todella nälkäinen, suosittelen ottamaan tupla friends burger -aterian päivitetyillä topped fries ranskalaisilla!",
     "descriptionen": "Friends & Brgrs has 2 restaurants in the city center that serve good and affordable smash burgers. If you are really hungry I suggest you take the double friends burger meal with upgraded topped fries!",
     "googlemapslink": "https://maps.app.goo.gl/Wt96CTj9iETh5FAf7",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Pizzeria Luca",
-    "badges": ["restaurant", "pizza", "pasta", "€€", "citycenter"],
+    "badges": ["restaurant", "pizza", "pasta", "citycenter", "€€"],
     "descriptionfi": "Pizzeria Luca on pizzeria keskustassa, joka tarjoilee herkullisia pizzoja. Ravintolassa on mukava tunnelma ja pizzat valmistetaan tuoreista raaka-aineista. Palkittu Euroopan 18. parhaana pizzana 2021. Tämä on suosikkipizzapaikkani Tampereella!",
     "descriptionen": "Pizzeria Luca is a pizzeria in the city center that serves delicious pizzas. The restaurant has a nice atmosphere and the pizzas are made with fresh ingredients. Awarded Top 18th pizza in Europe 2021 This is my favourite pizza place in Tampere!",
     "googlemapslink": "https://maps.app.goo.gl/vZsDASXCv7xvQw919",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Sitko Pizza",
-    "badges": ["restaurant", "pizza", "€€", "citycenter"],
+    "badges": ["restaurant", "pizza", "citycenter", "€€"],
     "descriptionfi": "Sitko Pizza on pizzeria keskustassa. Ravintolan erikoisuutena kuohkeat ja maukkaat pizzapohjat, joissa yhtenä raaka-aineena hapanjuuri. Ehdottomasti kokeilemisen arvoinen!",
     "descriptionen": "Sitko Pizza is a pizzeria in the city center. The specialty of the restaurant is fluffy and tasty pizza bases with sourdough as one of the ingredients. Definitely worth trying!",
     "googlemapslink": "https://maps.app.goo.gl/HiUK5vxYzpFoTmec9",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Panimoravintola Plevna",
-    "badges": ["restaurant", "€€€", "citycenter"],
+    "badges": ["restaurant", "citycenter", "€€€"],
     "descriptionfi": "Panimoravintola Plevna on panimoravintola keskustassa. Ravintola tarjoilee herkullista ruokaa ja sillä on laaja olutvalikoima. Ravintola sijaitsee vanhassa tehdasrakennuksessa ja sillä on ainutlaatuinen tunnelma. Se on ainoa aito panimopubi Tampereella, joka tuottaa laajan valikoiman paikan päällä valmistettuja oluita.",
     "descriptionen": "Panimoravintola Plevna is a brewery restaurant in the city center. The restaurant serves delicious food and has a wide selection of beers. The restaurant is located in an old factory building and has a unique atmosphere. It is the only genuine brewery pub in Tampere, producing a vast selection of beers made on the premises.",
     "googlemapslink": "https://maps.app.goo.gl/Wu5ACnwr7qPdcMjP9",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Osaka Teppanyaki",
-    "badges": ["restaurant", "sushi", "€€", "citycenter", "buffet", "japanese"],
+    "badges": ["restaurant", "sushi", "japanese", "buffet", "citycenter", "€€"],
     "descriptionfi": "Osaka Teppanyaki on japanilainen sushi & teppanyaki buffet. Teppanyaki on tyypillinen japanilainen ruokalaji, jossa ruoka valmistetaan asiakkaiden edessä. Asiakkaat voivat valita laajasta raaka-ainevalikoimasta buffetista, jotka kokin sitten grillaa. Ruokavalikoima on liian laaja listattavaksi tässä! Hinnat vaihtelevat vuorokaudenajan ja viikonpäivän mukaan.",
     "descriptionen": "Osaka Teppanyaki is a Japanese sushi & teppanyaki buffet. Teppanyaki is a typical Japanese dish where food is prepared in front of customers. Customers can choose from a wide selection of raw ingredients from the buffet, which the chef then grills. It has too many food choices to list here! Prices vary depending on the time of day and day of the week.",
     "googlemapslink": "https://maps.app.goo.gl/b3YpoKp6yeA4Scw8A",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Whatever",
-    "badges": ["restaurant", "€", "citycenter", "vegetarian", "buffet"],
+    "badges": ["restaurant", "vegetarian", "buffet", "citycenter", "€"],
     "descriptionfi": "Whatever on kasvissyöjäystävällinen ravintola keskustassa. Ravintola tarjoilee herkullista terveellistä ruokaa.",
     "descriptionen": "Whatever is a vegetarian friendly restaurant in the city center. The restaurant serves delicious healthy food.",
     "googlemapslink": "https://maps.app.goo.gl/Rgv2hn6UwGwXyAKq7",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Ravintola Näsinneula",
-    "badges": ["restaurant", "€€€", "uniquelocation", "finedining"],
+    "badges": ["restaurant", "finedining", "uniquelocation", "€€€"],
     "descriptionfi": "Ravintola Näsinneula on fine dining -ravintola ainutlaatuisella sijainnilla legendaarisessa Näsinneulassa. Ravintola sijaitsee Näsinneula-näkötornin huipulla, joka on Pohjoismaiden korkein näkötorni. Ravintola tarjoaa ainutlaatuisen ruokailuelämyksen Tampereen panoraamanäkymällä. Ravintola tarjoilee korkealaatuista ruokaa ja sillä on laaja viinivalikoima. Ravintola on täydellinen erityisiin tilaisuuksiin ja romanttisiin illallisiin. Varmista, että teet pöytävarauksen etukäteen!",
     "descriptionen": "Ravintola Näsinneula is a fine dining restaurant in a unique location in the legendary Näsinneula building. The restaurant is located at the top of Näsinneula observation tower, which is the tallest observation tower in the Nordic countries. The restaurant offers a unique dining experience with a panoramic view of Tampere. The restaurant serves high-quality food and has a wide selection of wines. The restaurant is perfect for special occasions and romantic dinners. Make sure you make a reservation beforehand!",
     "googlemapslink": "https://maps.app.goo.gl/QRRTeG5z7CqCNZSo7",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Boneless Tampere",
-    "badges": ["restaurant", "chickenwings", "hamburger", "€€", "citycenter"],
+    "badges": ["restaurant", "chickenwings", "hamburger", "citycenter", "€€"],
     "descriptionfi": "Boneless Tampere on ravintola keskustassa, joka tarjoilee herkullisia boneless chicken wings -annoksia ja smash burgereita. Ravintola ei ole suuri, mutta tunnelma on rap henkinen ja ruoka on herkullista. Suosittelen kokeilemaan!",
     "descriptionen": "Boneless Tampere is a restaurant in the city center that serves delicious boneless chicken wings and smash burgers. The restaurant is not big, but the atmosphere is rap-like and the food is delicious. I recommend trying it!",
     "googlemapslink": "https://maps.app.goo.gl/uRbiWGfWGXxfzmXc6",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Pizzeria Napoli",
-    "badges": ["restaurant", "pizza", "pasta", "€€", "citycenter"],
+    "badges": ["restaurant", "pizza", "pasta", "citycenter", "€€"],
     "descriptionfi": "Pizzeria Napoli on Tampereen vanhin pizzeria keskustassa. Pizzeria on suosittu paikallisten keskuudessa ja sieltä löytyy yli 100 erilaista pizzaa listalta!",
     "descriptionen": "Pizzeria Napoli is the oldest pizzeria in Tampere in the city center. The pizzeria is popular among locals and has over 100 different pizzas on the menu!",
     "googlemapslink": "https://maps.app.goo.gl/3E8dXFfu2V16YhvY7",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Puisto",
-    "badges": ["restaurant", "cafe", "€€€", "citycenter", "dessert"],
+    "badges": ["restaurant", "cafe", "dessert", "citycenter", "€€€"],
     "descriptionfi": "Puisto on kahvila-ravintola keskustassa, joka tarjoilee herkullista ruokaa ja juomia. Ravintola sijaitsee kauniissa puistomaisessa ympäristössä ja siellä on mukava tunnelma.",
     "descriptionen": "Puisto is a cafe-restaurant in the city center that serves delicious food and drinks. The restaurant is located in a beautiful park-like environment and has a nice atmosphere.",
     "googlemapslink": "https://maps.app.goo.gl/r6cvneaekgx2wEYz9",
@@ -89,14 +89,14 @@
   },
   {
     "name": "Cake House Café",
-    "badges": ["cafe", "€", "citycenter", "dessert"],
+    "badges": ["cafe", "dessert", "citycenter", "€"],
     "descriptionfi": "Cake House Café on kahvila keskustassa, joka on erikoistunut erilaisiin kakkuihin. Kakkujen ystävät kannattaa kokeilla!",
     "descriptionen": "Cake House Café is a cafe in the city center that specializes in different cakes. Cake lovers should try it!",
     "googlemapslink": "https://maps.app.goo.gl/3AMvdj1zNJwn8EVf7"
   },
   {
     "name": "Hook",
-    "badges": ["restaurant", "€€", "citycenter", "chickenwings"],
+    "badges": ["restaurant", "chickenwings", "citycenter", "€€"],
     "descriptionfi": "Hook on ravintola keskustassa, joka tarjoilee herkullisia chicken wings -annoksia. \"Suomen parhaat siivet, ribsit ja burgerit jo vuodesta 1997!\" Tämä on minun suosikki siipiravintola!",
     "descriptionen": "Hook is a restaurant in the city center that serves delicious chicken wings. \"Finland's best wings, ribs and burgers since 1997!\" This is my favourite chicken wings restaurant!",
     "googlemapslink": "https://maps.app.goo.gl/atNcb6cqaCBPkAoS8",
@@ -104,7 +104,7 @@
   },
   {
     "name": "Siipiweikot",
-    "badges": ["restaurant", "€€", "citycenter", "chickenwings"],
+    "badges": ["restaurant", "chickenwings", "citycenter", "€€"],
     "descriptionfi": "Siipiweikoilla on kaksi ravintolaa keskustassa. Siipiweikot on tunnettu kastikkeestaan, jota käytetään monissa muissakin ravintoloissa ja se päätyy myös monen ostoskoriin ruokakaupasta. Ensimmäinen alkuperiäinen \"og siipipaikka\"!",
     "descriptionen": "Siipiweikot has two restaurants in the city center. Siipiweikot is known for its sauce, which is used in many other restaurants and also ends up in many shopping carts from the grocery store. The first original \"og chicken wings place\"!",
     "googlemapslink": "https://maps.app.goo.gl/vNmBneaTDpkA14NFA",

@@ -4,10 +4,10 @@
     "badges": [
       "hotel",
       "citycenter",
+      "luxury",
+      "unique",
       "sauna",
       "gym",
-      "unique",
-      "luxury",
       "wifi",
       "parking"
     ],
@@ -21,12 +21,12 @@
     "badges": [
       "hotel",
       "citycenter",
+      "luxury",
       "sauna",
       "pool",
       "gym",
       "wifi",
-      "parking",
-      "luxury"
+      "parking"
     ],
     "descriptionen": "Original Sokos Hotel Ilves is a luxurious hotel in the heart of Tampere. It has been recently rennovated.",
     "descriptionfi": "Original Sokos Hotel Ilves on ylellinen hotelli Tampereen sydämessä. Se on vastikaa remontoitu.",
@@ -35,7 +35,13 @@
   },
   {
     "name": "Lapland Hotels Arena",
-    "badges": ["hotel", "citycenter", "sauna", "wifi", "parking"],
+    "badges": [
+      "hotel",
+      "citycenter",
+      "sauna",
+      "wifi",
+      "parking"
+    ],
     "descriptionen": "Lapland Hotels Arena is a hotel in the heart of Tampere. It is located in the same building as Nokia Arena.",
     "descriptionfi": "Lapland Hotels Arena on hotelli Tampereen sydämessä. Se sijaitsee samassa rakennuksessa kuin Nokia Arena.",
     "googlemapslink": "https://maps.app.goo.gl/hLSWpiNDB1CvmMMEA",
@@ -43,7 +49,14 @@
   },
   {
     "name": "Radisson Blu Grand Hotel Tammer",
-    "badges": ["hotel", "citycenter", "sauna", "wifi", "parking", "unique"],
+    "badges": [
+      "hotel",
+      "citycenter",
+      "unique",
+      "sauna",
+      "wifi",
+      "parking"
+    ],
     "descriptionen": "Radisson Blu Grand Hotel Tammer is a hotel in the heart of Tampere. It is a historical hotel with a great view of the Tammerkoski rapids.",
     "descriptionfi": "Radisson Blu Grand Hotel Tammer on hotelli Tampereen sydämessä. Se on historiallinen hotelli, josta on upeat näkymät Tammerkosken koskille.",
     "googlemapslink": "https://maps.app.goo.gl/bdWksS9RVMQkoPQW7",
@@ -51,7 +64,13 @@
   },
   {
     "name": "Dream Hostel & Hotel",
-    "badges": ["hostel", "citycenter", "wifi", "budget", "luxury"],
+    "badges": [
+      "hostel",
+      "citycenter",
+      "luxury",
+      "budget",
+      "wifi"
+    ],
     "descriptionen": "Dream Hostel & Hotel is a budget-friendly hostel in the heart of Tampere. It has been selected as one of the top ten luxury hostels in Europe by The Guardian.",
     "descriptionfi": "Dream Hostel & Hotel on budjettiystävällinen hostelli Tampereen sydämessä. Se on valittu Euroopan kymmenen parhaan luksushostellin joukkoon The Guardianin listauksessa.",
     "googlemapslink": "https://maps.app.goo.gl/qWEr3D6njc63jYNC7",
@@ -59,7 +78,14 @@
   },
   {
     "name": "Tampere Camping Härmälä",
-    "badges": ["camping", "cabin", "unique", "budget", "wifi", "parking"],
+    "badges": [
+      "camping",
+      "cabin",
+      "unique",
+      "budget",
+      "wifi",
+      "parking"
+    ],
     "descriptionen": "Tampere Camping Härmälä is a unique camping site in Tampere. It is located by Lake Pyhäjärvi and is a short way from the city center. The camping site has cabins for rent and it is only open in the summer.",
     "descriptionfi": "Tampere Camping Härmälä on uniikki leirintäalue Tampereella. Se sijaitsee Pyhäjärven rannalla ja on lyhyen matkan päässä keskustasta. Leirintäalueella on vuokrattavia mökkejä ja se on auki vain kesäisin.",
     "googlemapslink": "https://maps.app.goo.gl/JgB541sKGmGR6MKXA",
