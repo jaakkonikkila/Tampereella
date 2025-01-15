@@ -35,9 +35,13 @@ const AccommodationPage = () => {
       <Grid
         templateColumns={{
           base: "repeat(auto-fit, minmax(269px, 1fr))", // Dynamically adjust columns
-          xl: "repeat(4, 1fr)", // Cap at 4 columns on large screens
+          "2xl": "repeat(5, 1fr)", // Cap at 5 columns on large screens
         }}
-        gap="6"
+        gapX={{ base: "4", xl: "8" }}
+        gapY={{ base: "6", xl: "8" }}
+        mx={{ base: "0", md: "8" }}
+        mt="2"
+        justifyItems="center"
       >
         {filteredData.map((data, index) => (
           <Card

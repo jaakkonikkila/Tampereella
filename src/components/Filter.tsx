@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Button, HStack } from "@chakra-ui/react";
+import { Button, HStack, Text } from "@chakra-ui/react";
 import { useTranslations } from "next-intl";
 
 interface FilterProps {
@@ -41,13 +41,13 @@ const Filter: React.FC<FilterProps> = ({
     <HStack gap={3} wrap="wrap" justifyContent="center">
       {options.map((filter) => (
         <Button
+          colorPalette="red"
           size={{ base: "xs", sm: "sm", lg: "md" }}
           key={filter}
           onClick={() => toggleFilter(filter)}
-          variant={selectedFilters.includes(filter) ? "solid" : "outline"}
-          colorScheme={selectedFilters.includes(filter) ? "teal" : "gray"}
+          variant={selectedFilters.includes(filter) ? "subtle" : "outline"}
         >
-          {t(filter)}
+          <Text color={{ base: "black", _dark: "white" }}>{t(filter)}</Text>
         </Button>
       ))}
     </HStack>
