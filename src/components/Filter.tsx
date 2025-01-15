@@ -45,7 +45,7 @@ const Filter: React.FC<FilterProps> = ({
           size={{ base: "xs", sm: "sm", lg: "md" }}
           key={filter}
           onClick={() => toggleFilter(filter)}
-          variant={selectedFilters.includes(filter) ? "subtle" : "outline"}
+          variant={selectedFilters.includes(filter) ? "surface" : "outline"}
         >
           <Text color={{ base: "black", _dark: "white" }}>{t(filter)}</Text>
         </Button>
