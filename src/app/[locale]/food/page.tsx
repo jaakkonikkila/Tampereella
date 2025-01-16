@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Grid, Flex, Center } from "@chakra-ui/react";
 import Card from "@/components/Card";
 import Filter from "@/components/Filter";
+import ScrollToTop from "@/components/ScrollToTopButton";
 import foodData from "@/data/food.json";
 
 const FoodPage = () => {
@@ -71,6 +72,7 @@ const FoodPage = () => {
           />
         ))}
       </Grid>
+      <ScrollToTop />
     </Flex>
   );
 };
