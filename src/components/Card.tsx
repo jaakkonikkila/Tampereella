@@ -85,7 +85,11 @@ const CustomCard = ({
         <VStack gap="3" width="100%" align="start">
           <Flex wrap="wrap" gap="2" mt="1" width="100%">
             {badges?.map((badge, index) => (
-              <Badge key={index} variant="subtle" size={{ base: "sm", "2xl": "md" }}>
+              <Badge
+                key={index}
+                variant="subtle"
+                size={{ base: "sm", "2xl": "md" }}
+              >
                 {t(badge)}
               </Badge>
             ))}

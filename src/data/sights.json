@@ -153,7 +153,7 @@
   },
   {
     "name": "Kalevankankaan hautausmaa",
-    "badges": ["noteworthylocation","monument", "free"],
+    "badges": ["noteworthylocation", "monument", "free"],
     "descriptionfi": "Kalevankankaan hautausmaa on hautausmaa, joka on perustettu vuonna 1880. Hautausmaa on tunnettu monista merkittävistä haudoista ja upeista muistomerkeistä. Sieltä löytyy myös näköalapaikka ja sankarihaudat.",
     "descriptionen": "Kalevankangas Cemetery is a cemetery established in 1880. The cemetery is known for its many significant graves and magnificent monuments. It also features a viewpoint and war graves.",
     "googlemapslink": "https://maps.app.goo.gl/gfTcjtqVkjCa1WM79"
@@ -183,7 +183,7 @@
   },
   {
     "name": "Punakaartilaismuistomerkki",
-    "badges": ["monument","noteworthylocation", "free"],
+    "badges": ["monument", "noteworthylocation", "free"],
     "descriptionfi": "Punakaartilaismuistomerkki on Pyykkimetsän puistossa sijaitseva muistomerkki, joka on omistettu vuoden 1918 tapahtumille. Muistomerkki on pystytetty punakaartilaisten muistoksi. Sieltä aukeaa upeat näkymät pyhäjärvelle.",
     "descriptionen": "The Red Guard Memorial is a monument located in Pyykkimetsä Park, dedicated to the events of 1918. The monument is erected in memory of the Red Guards. It offers stunning views of Lake Pyhäjärvi.",
     "googlemapslink": "https://maps.app.goo.gl/XmtZ1vHxzaSjiE3r9"

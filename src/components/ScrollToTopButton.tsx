@@ -37,16 +37,16 @@ export default function ScrollToTop() {
           onClick={scrollToTop}
           size="lg"
           boxShadowColor="lg"
-          outline={{_light:"solid 1px"}}
+          outline={{ _light: "solid 1px" }}
           outlineColor="red.700"
-          bgColor={{ _light:"red.100", _dark:"red.800" }}
-          color={{ _light:"red.700", _dark:"#fca5a5" }}
+          bgColor={{ _light: "red.100", _dark: "red.800" }}
+          color={{ _light: "red.700", _dark: "#fca5a5" }}
           borderRadius="full"
           boxShadow="md"
           _hover={{ boxShadow: "xl", transform: "scale(1.1)" }}
           transition="all 0.3s"
         >
-            <GoArrowUp />
+          <GoArrowUp />
         </IconButton>
       )}
     </Center>
