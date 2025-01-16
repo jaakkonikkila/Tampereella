@@ -76,5 +76,14 @@
     "monument": "Muistomerkki 🏛️",
     "noteworthylocation": "Huomionarvoinen paikka 📍",
     "museum": "Museo 🖼️"
+  },
+  "Activitiespage": {
+    "escaperoom": "Pakohuone 🕵️",
+    "shopping": "Shoppailu 🛍️",
+    "publicsauna": "Julkinen sauna ♨️",
+    "sports": "Urheilu 🏅",
+    "hiking": "Patikointi / kävely 🥾",
+    "citycenter": "Keskusta 🏙️",
+    "special": "Erityinen 🌟"
   }
 }

@@ -76,5 +76,14 @@
     "museum": "Museum 🖼️",
     "noteworthylocation": "Noteworthy location 📍",
     "monument": "Monument 🏛️"
+  },
+  "Activitiespage": {
+    "escaperoom": "Escape room 🕵️",
+    "shopping": "Shopping 🛍️",
+    "publicsauna": "Public sauna ♨️",
+    "sports": "Sports 🏅",
+    "hiking": "Hiking / walking 🥾",
+    "citycenter": "City center 🏙️",
+    "special": "Special ⭐"
   }
 }

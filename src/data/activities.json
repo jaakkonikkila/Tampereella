@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Labyrinth Games Room Escape Tampere",
+    "badges": ["escaperoom", "citycenter"],
+    "descriptionfi": "Yksi ensimmäisistä pakopeliyrityksistä Suomessa. Pakohuoneet on rakennettu keskittyen erityisesti tarinoihin, tehtäviin ja tunnelmaan.",
+    "descriptionen": "One of the first escape room companies in Finland. The escape rooms are built with a special focus on stories, tasks, and atmosphere.",
+    "googlemapslink": "https://maps.app.goo.gl/4TuCTDDKCPQmGrEh6",
+    "websitelink": "https://lgames.fi/tampere"
+  },
+  {
+    "name": "Getaway Room Escape Tampere",
+    "badges": ["escaperoom", "citycenter"],
+    "descriptionfi": "Getaway Tampereen valikoimasta löydät yhteensä 10 pakohuonetta, kolmesta eri toimipisteestä Tampereen keskustassa. Lisäksi pelattavanasi on kaupunkiseikkailu Lost Love, joka johdattaa sinut ja tiimisi Tampereen keskustan kauneimpiin paikkoihin pulmia ratkoessanne. Tampere-teemaiset pakopelit ovat täysin itse suunnittelemia ja rakennettuja. Hauskat pakohoneet soveltuvat kaikille pulmista ja elämyksistä pitäville.",
+    "descriptionen": "Getaway Tampere offers a total of 10 escape rooms across three different locations in the city center of Tampere. Additionally, you can play the city adventure Lost Love, which will guide you and your team to the most beautiful places in Tampere city center while solving puzzles. The Tampere-themed escape games are entirely self-designed and built. The fun escape rooms are suitable for everyone who enjoys puzzles and experiences.",
+    "googlemapslink": "https://www.google.fi/maps/search/getaway+room+escape+tampere/@61.4959611,23.7671365,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D",
+    "websitelink": "https://www.getaway.fi/tampere/"
+  },
+  {
+    "name": "Kauppakeskus Ratina",
+    "badges": ["shopping", "citycenter"],
+    "descriptionfi": "Ratinan kauppakeskus on Tampereen suurin ostoskeskus, jossa on laaja valikoima kauppoja, ravintoloita ja palveluja.",
+    "descriptionen": "Ratina Shopping Center is the largest mall in Tampere, offering a wide selection of shops, restaurants, and services.",
+    "googlemapslink": "https://maps.app.goo.gl/Vx6PC36CffQbBZes8",
+    "websitelink": "https://www.ratina.fi/"
+  },
+  {
+    "name": "Rajaportin Sauna",
+    "badges": ["publicsauna", "special"],
+    "descriptionfi": "Rajaportin sauna on Suomen vanhin yleinen sauna. Se tarjoaa aidon suomalaisen saunakokemuksen historiallisessa miljöössä.",
+    "descriptionen": "Rajaportti Sauna is the oldest public sauna in Finland, offering an authentic Finnish sauna experience in a historical setting.",
+    "googlemapslink": "https://maps.app.goo.gl/KkHQAoMpcX431EsR9",
+    "websitelink": "https://www.rajaportti.fi/"
+  },
+  {
+    "name": "Rauhaniemen kansankylpylä",
+    "badges": ["publicsauna", "special"],
+    "descriptionfi": "Kansankylpylä tarjoaa kävijöilleen Tampereen tunnelmallisimmat löylyt sekä mahtavat Näsijärven selälle aukeavat maisemat. Paikka on tamperelaisille poikkeuksellisen rakas ja paikalliset kutsuvatkin sitä tuttavallisemmin nimellä Rauhis. Nykyään Rauhis on myös turistien suosima matkakohde sekä ulkomaalaisille suomalaisia perinteitä tarjoava elämys. Rauhaniemessä on kaksi perinteistä suomalaista saunaa, isompi ja pienempi. Rauhaniemen yleiset saunat ovat yhteisiä miehille ja naisille ja niissä saunotaan uima-asuissa. Kiukaat ovat lämpiminä vuoden jokaisena päivänä ja uimaan pääsee myös talvisin avantoon. Rauhaniemi on todennäköisesti Tampereen suosituin julkinen sauna.",
+    "descriptionen": "The public sauna offers visitors the most atmospheric saunas in Tampere and magnificent views over Lake Näsijärvi. The place is exceptionally dear to the locals, who affectionately call it Rauhis. Nowadays, Rauhis is also a popular tourist destination and offers foreigners an experience of Finnish traditions. Rauhaniemi has two traditional Finnish saunas, a larger one and a smaller one. The public saunas at Rauhaniemi are shared by men and women, and bathing is done in swimsuits. The saunas are heated every day of the year, and you can also swim in the ice hole during winter. Rauhaniemi is probably the most popular puiblic sauna in Tampere.",
+    "googlemapslink": "https://maps.app.goo.gl/Hdt1pdaAKxtm226t8",
+    "websitelink": "http://www.rauhaniemi.net/"
+  },
+  {
+    "name": "Kaupinojan sauna",
+    "badges": ["publicsauna"],
+    "descriptionfi": "Kaupinojan saunalla viihtyy koko perhe. Kaupinojan sauna on auki käytännöllisesti katsoen aina, paitsi joka kuukauden toinen tiistai jolloin siellä tehdään huoltotoimia. Isossa saunassamme saat laadukkaat löylyt, jonka jälkeen on mukava pulahtaa virkistävään järviveteen. Näsijärveen pääsee uimaan niin kesäisin kuin talvisinkin. Saunalta johtaa polku ja portaat suoraan järveen, joten kulku on sujuvaa.",
+    "descriptionen": "The whole family will enjoy Kaupinoja sauna. Kaupinoja sauna is practically always open, except on the second Tuesday of every month when maintenance is carried out. In our large sauna, you will get high-quality steam, after which it is nice to take a dip in the refreshing lake water. You can swim in Lake Näsijärvi both in summer and winter. A path and stairs lead directly from the sauna to the lake, making access smooth.",
+    "googlemapslink": "https://maps.app.goo.gl/5khGvHuqvKurVe6x6",
+    "websitelink": "https://talviuimarit.fi/kaupinojan-sauna/"
+  },
+  {
+    "name": "Kintulammin retkeilyalue",
+    "badges": ["hiking"],
+    "descriptionfi": "Kintulammi on upea retkeily- ja luonnonsuojelualue Tampereella, Teisko-Aitolahti -alueella. Se on kaikille avoin luonto- ja retkikohde polkuineen, pitkospuineen, laavuineen ja suuntaviitoituksineen. Alue sijaitsee noin 20 km Tampereen keskustasta Teiskon suuntaan. Alueelta löytyy noin 18 km opastettua retkeilyreitistöä sekä 6 tulipaikkaa, joista neljän yhteydessä on uniikki, luonnonmukaisesti suunniteltu laavukokonaisuus puuliitereineen ja kuivakäymälöineen.",
+    "descriptionen": "Kintulammi is a magnificent hiking and nature reserve area in Tampere, in the Teisko-Aitolahti area. It is an open nature and hiking destination for everyone, with trails, boardwalks, lean-tos, and signposts. The area is located about 20 km from the center of Tampere towards Teisko. The area has about 18 km of guided hiking trails and 6 campfire sites, four of which have a unique, naturally designed lean-to complex with wood sheds and dry toilets.",
+    "googlemapslink": "https://maps.app.goo.gl/P3Xp7xhPReCTHvqm6",
+    "websitelink": "http://www.kintulammi.fi/"
+  },
+  {
+    "name": "Flowpark Tampere",
+    "badges": ["sports"],
+    "descriptionfi": "Flowpark on ekologinen seikkailuhuvipuisto, jossa pääsee testaamaan kestääkö kantti. Seikkailuradat on rakennettu eläviin puihin niitä vahingoittamatta. Lukuisia erilaisia tehtäviä pääsee suorittamaan jopa kahdenkymmenen metrin korkeudella. Tehtävät ovat eritasoisia yläköysiratoja sisältäen mm. heiluvia polkuja, liaanihyppyjä, keinuja ja vaijeriliukuja.",
+    "descriptionen": "Flowpark is an ecological adventure amusement park where you can test your courage. The adventure trails are built on living trees without harming them. There are numerous different tasks to complete even at a height of twenty meters. The tasks are of different levels of difficulty, including e.g. swaying paths, liana jumps, swings, and zip lines.",
+    "googlemapslink": "https://maps.app.goo.gl/SGyEzdgHtFYGLwP17",
+    "websitelink": "http://www.flowpark.fi/tampere/"
+  },
+  {
+    "name": "Koskikeskus",
+    "badges": ["shopping", "citycenter"],
+    "descriptionfi": "Koskikeskus on monipuolinen ostoskeskus Tampereen keskustassa, jossa on kauppoja, ravintoloita ja viihdetarjontaa.",
+    "descriptionen": "Koskikeskus is a versatile shopping mall in the center of Tampere, featuring shops, restaurants, and entertainment options.",
+    "googlemapslink": "https://maps.app.goo.gl/9ixNnfH6P1coaRFn7",
+    "websitelink": "https://www.koskikeskus.fi/"
+  },
+  {
+    "name": "Kauppi Sports Center",
+    "badges": ["sports", "hiking"],
+    "descriptionfi": "Kauppi Sports Center tarjoaa monipuoliset mahdollisuudet urheiluun ja ulkoiluun, kuten kuntosaliharjoitteluun, hiihtoon, lenkkeilyyn, pyöräilyyn, sulkapalloon, lentopalloon. Sielä löytyy myös trampoliinipuisto, seikkailupuisto ja kiipeilypuisto",
+    "descriptionen": "Kauppi Sports Center offers versatile opportunities for sports and outdoor activities, such as gym training, skiing, jogging, cycling, badminton, and volleyball. It also features a trampoline park, adventure park, and climbing park.",
+    "googlemapslink": "https://maps.app.goo.gl/ZdpohjvTLxsqP1y67",
+    "websitelink": "http://www.kauppisportscenter.fi/"
+  },
+  {
+    "name": "Saunaravintola Kuuma",
+    "badges": ["publicsauna", "special", "citycenter"],
+    "descriptionfi": "Saunaravintola Kuuma on moderni saunaravintola Tampereen sydämessä. Täydellinen paikka käydä saunassa ja pulahtaa järvessä. Saunomisen jälkeen suosittelen syömään ravintolan lohikeittoa!",
+    "descriptionen": "Saunaravintola Kuuma is a modern sauna restaurant in the heart of Tampere. The perfect place to enjoy a sauna and take a dip in the lake. After the sauna, I recommend trying the restaurant's salmon soup!",
+    "googlemapslink": "https://maps.app.goo.gl/9MAsq8rgAKwZSSG38",
+    "websitelink": "https://saunaravintolakuuma.fi/"
+  },
+  {
+    "name": "Tampereen Kiipeilykeskus",
+    "badges": ["sports"],
+    "descriptionfi": "Tampereen Kiipeilykeskus tarjoaa haasteita ja hauskaa kiipeilijöille, aloittelijoista asiantuntijoihin. ",
+    "descriptionen": "Tampereen Kiipeilykeskus offers challenges and fun for climbers of all levels, from beginners to experts.",
+    "googlemapslink": "https://www.google.fi/maps/search/Tampereen+Kiipeilykeskus/@61.4873626,23.7125598,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D",
+    "websitelink": "http://www.tampereenkiipeilykeskus.fi/"
+  },
+  {
+    "name": "Särkänniemi",
+    "badges": ["special", "citycenter"],
+    "descriptionfi": "Särkänniemen huvipuistossa voi kokea seikkailuja, jotka sopivat niin lapsille kuin aikuisille. Särkänniemeen kuuluu Särkänniemen huvipuisto, Akvaario, Planetaario, Koiramäen eläinpuisto, Näsinneulan näkötorni ja Ravintola Näsinneula.",
+    "descriptionen": "Särkänniemi Adventure Park offers adventures suitable for both kids and adults. Särkänniemi includes Särkänniemi Amusement Park, Aquarium, Planetarium, Doghill Animal Park, Näsinneula Observation Tower, and Restaurant Näsinneula.",
+    "googlemapslink": "https://maps.app.goo.gl/A2XDhvbsfrqRYyKf7",
+    "websitelink": "https://sarkanniemi.fi/"
+  },
+  {
+    "name": "Room Escape Tampere - Finlayson Event Lounge",
+    "badges": ["escaperoom", "citycenter"],
+    "descriptionfi": "Event Loungessa on kahdeksan pelihuonetta neljällä eri teemalla sekä neljällä erilaisella vaikeusasteilla, eli jokaiselle löytyy jotakin! Kaikki pelihuoneet on suunniteltu niin, että voit huoletta ottaa myös perheen pienimmät mukaan, sillä huoneissa ei ole mitään pelottavaa eikä fyysistä voimaa tarvita. Finlaysonin toimipisteen yleiset tilat ovat esteettömiä ja osa pakohuoneistakin.",
+    "descriptionen": "The Event Lounge has eight game rooms with four different themes and four different difficulty levels, so there is something for everyone! All game rooms are designed so that you can safely bring even the youngest family members, as there is nothing scary in the rooms and no physical strength is required. The general areas of the Finlayson location are accessible, as are some of the escape rooms.",
+    "googlemapslink": "https://maps.app.goo.gl/ATgA6ruRVdQZmvuQA",
+    "websitelink": "http://www.roomescape.fi/tampere"
+  },
+  {
+    "name": "Mysteeri Tampere - Pakohuone tarinalla",
+    "badges": ["escaperoom", "citycenter"],
+    "descriptionfi": "Myysteeri Tampereella on kuusi erilaista pakohuonetta. Yksi niistä on K-18.",
+    "descriptionen": "Mysteeri Tampere has six different escape rooms. One of them is rated 18+.",
+    "googlemapslink": "https://maps.app.goo.gl/Edu8R3kVsStXw1Aq6",
+    "websitelink": "https://www.mysteeri.com/kaupunki/tampere"
+  },
+  {
+    "name": "Tallipiha",
+    "badges": ["shopping", "special", "citycenter"],
+    "descriptionfi": "Ihanat puodit, nostalginen kahvila, elämyksellisiä tapahtumia, vierailevia eläimiä. Tallipihan historia juontaa juurensa 1800-luvulta, jolloin tehtaanpatruuna Wilhelm von Nottbeck rakennutti kauniin tallipihan hevosiaan ja niiden hoitajia varten. Monipuolinen valikoima upeita käsitöitä, sisustustuotteita, herkkuja ja suussa sulavia suklaita houkuttelee kiertämään talojen puodeista toiseen. Tunnelmallinen kahvilamme tarjoaa itseleivottuja herkkuja vaativaankin makuun.",
+    "descriptionen": "Lovely shops, a nostalgic café, experiential events, and visiting animals. The history of Tallipiha dates back to the 19th century when factory owner Wilhelm von Nottbeck built the beautiful stable yard for his horses and their caretakers. A diverse selection of wonderful handicrafts, interior products, delicacies, and mouth-watering chocolates invites you to explore the shops in the houses. Our atmospheric café offers homemade treats for even the most demanding taste.",
+    "googlemapslink": "https://maps.app.goo.gl/4rPj9NCncUPVx8CV8",
+    "websitelink": "http://www.tallipiha.fi/"
+  },
+  {
+    "name": "Tampereen Kauppahalli",
+    "badges": ["shopping", "citycenter"],
+    "descriptionfi": "1901 valmistuneessa jugend-rakennuksessa toimiva kauppahalli, jossa on kahviloita, ravintoloita, palveluita ja paikallisia herkkuja",
+    "descriptionen": "A market hall operating in an Art Nouveau building completed in 1901, featuring cafes, restaurants, services, and local delicacies.",
+    "googlemapslink": "https://maps.app.goo.gl/RmGs26PcVv1beDh9A",
+    "websitelink": "https://kauppahalli.tampere.fi/"
+  },
+  {
+    "name": "Tammper-Golf Ry",
+    "badges": ["sports"],
+    "descriptionfi": "18 väyläinen golfkenttä, josta löytyy myös lyöntistudio ja harjoitusalueet",
+    "descriptionen": "18-hole golf course with a driving range and practice areas",
+    "googlemapslink": "https://maps.app.goo.gl/XZk493QTgCmuNbdL8",
+    "websitelink": "http://www.tammer-golf.fi/"
+  },
+  {
+    "name": "Tampereen Tenniskeskus",
+    "badges": ["sports"],
+    "descriptionfi": "Tampereen Tenniskeskus tarjoaa ulko- ja sisätenniskenttiä, squashia, padelia, pingistä, sulkapalloa ja kuntosalin.",
+    "descriptionen": "Tampere Tennis Center offers outdoor and indoor tennis courts, squash, padel, table tennis, badminton, and a gym.",
+    "googlemapslink": "https://maps.app.goo.gl/7qJLg6zBLNe5xcn88",
+    "websitelink": "http://www.tampereentenniskeskus.fi/"
+  }
+]
