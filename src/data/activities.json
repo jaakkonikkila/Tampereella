@@ -129,7 +129,7 @@
   },
   {
     "name": "Tampereen Kauppahalli",
-    "badges": ["shopping", "citycenter"],
+    "badges": ["shopping", "special", "citycenter"],
     "descriptionfi": "1901 valmistuneessa jugend-rakennuksessa toimiva kauppahalli, jossa on kahviloita, ravintoloita, palveluita ja paikallisia herkkuja",
     "descriptionen": "A market hall operating in an Art Nouveau building completed in 1901, featuring cafes, restaurants, services, and local delicacies.",
     "googlemapslink": "https://maps.app.goo.gl/RmGs26PcVv1beDh9A",
