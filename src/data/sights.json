@@ -4,13 +4,15 @@
     "badges": ["church", "citycenter", "landmark", "free"],
     "descriptionfi": "Tampereen tuomiokirkko on yksi kaupungin tunnetuimmista maamerkeistä. Se on tunnettu erityisesti Carl von der Brüggen suunnittelemasta alttaritaulusta ja upeasta arkkitehtuurista. Vuonna 1907 valmistuneessa komeana kohoavassa graniittikirkossa on kolme tornia ja punatiiliset katot.",
     "descriptionen": "Tampere Cathedral is one of the city's most famous landmarks. It is known for its altar painting by Carl von der Brügge and stunning architecture. The grand granite church, completed in 1907, features three towers and red brick roofs.",
-    "googlemapslink": "https://maps.app.goo.gl/1ayLYbifL9M8w7V96"
+    "googlemapslink": "https://maps.app.goo.gl/1ayLYbifL9M8w7V96",
+    "websitelink": "https://tampereenseurakunnat.fi/kirkko_tampereella/kirkot_ja_muut_tilat/kirkot/tuomiokirkko#27763fbe"
   },
   {
     "name": "Kalevan kirkko",
-    "badges": ["church", "landmark"],
+    "badges": ["church", "landmark", "free"],
     "descriptionfi": "Kalevan kirkko on moderni ja vaikuttava rakennus, jonka erikoisuus on upea arkkitehtuuri ja ainutlaatuiset sisätilat.",
-    "descriptionen": "Kaleva Church is a modern and impressive building known for its stunning architecture and unique interiors."
+    "descriptionen": "Kaleva Church is a modern and impressive building known for its stunning architecture and unique interiors.",
+    "websitelink": "https://tampereenseurakunnat.fi/kirkko_tampereella/kirkot_ja_muut_tilat/kirkot/kalevan_kirkko"
   },
   {
     "name": "Aleksanterin kirkko",
@@ -18,7 +20,7 @@
     "descriptionfi": "Aleksanterin kirkko on uusgottilainen kirrko Tampereen keskustassa. Se on nimetty keisari Alekanteri II:n mukaan. Kirkkoa ympäröi Pyynikin kirkkopuisto , joka on entinen hautausmaa.",
     "descriptionen": "The Alexander Church is a neo-Gothic church in the center of Tampere. It is named after Emperor Alexander II. The church is surrounded by the Pyynikki Church Park, which is a former cemetery.",
     "googlemapslink": "https://maps.app.goo.gl/rVNYBkzwxoMc5uPHA",
-    "websitelink": "https://tampereenseurakunnat.fi/kirkko_tampereella/kirkot_ja_kappelit/aleksanterin_kirkko"
+    "websitelink": "http://www.tampereenseurakunnat.fi/kirkko_tampereella/kirkot_ja_muut_tilat/kirkot/aleksanterin_kirkko"
   },
   {
     "name": "Pyynikin näkötorni",
@@ -46,7 +48,7 @@
   },
   {
     "name": "Pyynikin ranta",
-    "badges": ["park", "easilyaccessible"],
+    "badges": ["park", "free"],
     "descriptionfi": "Pyynikin ranta on suosittu ranta Pyhäjärven rannalla. Alue tarjoaa upeat maisemat ja hyvät mahdollisuudet uintiin ja sup-lautailuun.",
     "descriptionen": "Pyynikki Beach is a popular beach by Lake Pyhäjärvi. The area offers stunning views and great opportunities for swimming and stand-up paddleboarding.",
     "googlemapslink": "https://maps.app.goo.gl/qtA5ztGPLrLnt8ZM8"
@@ -65,5 +67,125 @@
     "descriptionen": "Tampere Art Museum offers a wide range of exhibitions showcasing Finnish art, along with interesting traveling exhibitions.",
     "googlemapslink": "https://maps.app.goo.gl/h7D5jH34hHhKQLTM6",
     "websitelink": "https://www.tampereentaidemuseo.fi/"
+  },
+  {
+    "name": "Museokeskus Vapriikki",
+    "badges": ["museum", "citycenter"],
+    "descriptionfi": "Vapriikki on monipuolinen museokeskus Tammerkosken rannalla ja se tarjoaa nähtävää ja koettavaa koko perheelle. Voit tutustua kerralla yli kymmeneen näyttelyyn. Historiaa, luonnontieteitä ja tekniikkaa – niistä on hyvä museokeskus tehty! Vieraita palvelee myös museoravintola ja museokauppa.",
+    "descriptionen": "Vapriikki is a versatile museum center located on the banks of the Tammerkoski rapids, offering something for the whole family. You can explore over ten exhibitions at once. History, natural sciences, and technology – that's what a good museum center is made of! Visitors are also served by a museum restaurant and museum shop.",
+    "googlemapslink": "https://maps.app.goo.gl/2nEQDcwuyiGveRvn7",
+    "websitelink": "https://www.vapriikki.fi/"
+  },
+  {
+    "name": "Koskipuisto",
+    "badges": ["park", "citycenter", "easilyaccessible", "free"],
+    "descriptionfi": "Koskipuisto on Tampereen keskustassa sijaitseva puisto, joka on suosittu paikka viettää aikaa ja nauttia kauniista maisemista. Nappaa läheltä vaikka kahvi ja tule istuskelemaan!",
+    "descriptionen": "Koskipuisto is a park located in the center of Tampere, which is a popular place to spend time and enjoy the beautiful scenery. Grab a coffee nearby and come sit down!",
+    "googlemapslink": "https://maps.app.goo.gl/a1Vaqw1V8JYJfjKE7"
+  },
+  {
+    "name": "Työväenmuseo Werstas",
+    "badges": ["museum", "citycenter", "free"],
+    "descriptionfi": "Työväenmuseo Werstas on Tampereen keskustassa sijaitseva museo, joka kertoo Tampereen teollisuushistoriasta ja työväen elämästä. Museon kohokohtana on jättiläismäinen Sulzer-höyrykone alkuperäisellä sijainnillaan.",
+    "descriptionen": "Werstas Labor Museum is a museum located in the center of Tampere, which tells the story of Tampere's industrial history and the life of the working class. The highlight of the museum is the giant Sulzer steam engine in its original location.",
+    "googlemapslink": "https://maps.app.goo.gl/tW5TuM53cnxPUbft8",
+    "websitelink": "http://www.tyovaenmuseo.fi/"
+  },
+  {
+    "name": "Museo Milavida",
+    "badges": ["museum", "citycenter"],
+    "descriptionfi": "Entisöity 1800-luvun lopun kartano, jossa on näyttelyjä Suomen historiasta ja kahvila.",
+    "descriptionen": "Restored late 19th-century manor house with exhibitions on Finnish history and a café.",
+    "googlemapslink": "https://maps.app.goo.gl/bJjyLRq3111cDuAU8",
+    "websitelink": "http://www.museomilavida.fi/"
+  },
+  {
+    "name": "Sara Hildénin taidemuseo",
+    "badges": ["museum"],
+    "descriptionfi": "Sara Hildénin taidemuseo on modernin taiteen museo, joka sijaitsee Näsijärven rannalla ja siellä on 4500 nykytaideteosta ja veistospuisto.",
+    "descriptionen": "Sara Hildén Art Museum is a modern art museum located on the shore of Lake Näsijärvi, featuring 4,500 contemporary art pieces and a sculpture park.",
+    "googlemapslink": "https://maps.app.goo.gl/DmbQpLCgYvUqFDge8",
+    "websitelink": "https://www.sarahildenintaidemuseo.fi/"
+  },
+  {
+    "name": "Patosillan lemmenlukot",
+    "badges": ["noteworthylocation", "citycenter", "free"],
+    "descriptionfi": "Patosillan lemmenlukot ovat Tampereen tunnetuin rakkauden symboli. Sillan kaiteisiin ripustetut lukot kertovat tarinoita rakkaudesta ja ystävyydestä.",
+    "descriptionen": "The love locks of Patosilta are Tampere's most famous symbol of love. The locks hanging on the bridge railings tell stories of love and friendship.",
+    "googlemapslink": "https://maps.app.goo.gl/zF2xmKPsSvvTDRhf9"
+  },
+  {
+    "name": "Näsikallion suihkukaivo",
+    "badges": ["monument", "citycenter", "free"],
+    "descriptionfi": "Näsikallion suihkukaivo on Tampereen keskustassa sijaitseva suihkullähde. Arkkitehti Birger Federleyn suunnitteleman arkkitehtonisen graniittirakennelman kruunaa kolme erillistä Emil Wikströmin pronssiveistosta.",
+    "descriptionen": "Näsikallio Fountain is a fountain located in the center of Tampere. The architectural granite structure, designed by architect Birger Federley, is crowned by three separate bronze sculptures by Emil Wikström.",
+    "googlemapslink": "https://maps.app.goo.gl/8CkhWzXB9bT6unsK7"
+  },
+  {
+    "name": "Muumimuseo",
+    "badges": ["museum", "citycenter"],
+    "descriptionfi": "Muumimuseo on Tampereella sijaitseva museo, joka esittelee Tove Janssonin luomaa Muumimaailmaa. Elämyksellinen taidemuseo, jossa seikkailevat Muumeista tutut hahmot.",
+    "descriptionen": "Moomin Museum is a museum located in Tampere, showcasing the Moomin world created by Tove Jansson. An experiential art museum featuring the familiar characters from the Moomins.",
+    "googlemapslink": "https://maps.app.goo.gl/7urwnypr5pRYWbjF9",
+    "websitelink": "https://muumimuseo.fi/"
+  },
+  {
+    "name": "Näsinpuisto",
+    "badges": ["park", "citycenter", "free"],
+    "descriptionfi": "Näsinpuisto on Tampereen keskustassa sijaitseva puisto, joka on suosittu paikka viettää aikaa ja nauttia kauniista maisemista. Puistossa on myös leikkipaikka lapsille, museo Milavida ja Kurun haaksirikon muistomerkki.",
+    "descriptionen": "Näsinpuisto is a park located in the center of Tampere, which is a popular place to spend time and enjoy the beautiful scenery. The park also features a playground for children, the Milavida Museum, and the Kurun Shipwreck Memorial.",
+    "googlemapslink": "https://maps.app.goo.gl/LkX5Z4uTThpqG3778"
+  },
+  {
+    "name": "Kurun haaksirikon muistomerkki",
+    "badges": ["monument", "citycenter", "free"],
+    "descriptionfi": "Näsinpuistossa sijaitseva Kurun haaksirikon muistomerkki kertoo Suomen pahimmasta sisävesillä tapahtuneesta vesiliikenneonnettomuudesta, joka vei 138 henkeä.",
+    "descriptionen": "The Kurun Shipwreck Memorial in Näsinpuisto tells the story of Finland's worst inland waterway accident, which claimed the lives of 138 people.",
+    "googlemapslink": "https://maps.app.goo.gl/VTutMEuMMdQnKn5r9"
+  },
+  {
+    "name": "Poliisimuseo",
+    "badges": ["museum", "easilyaccessible", "free"],
+    "descriptionfi": "Poliisimuseo on ilmainen Hervannassa sijaitseva museo, joka esittelee poliisin työtä ja historiaa. Museossa on esillä poliisin varusteita, ajoneuvoja ja historiallisia esineitä. Tänne on helppo saapua keskustasta ratikalla.",
+    "descriptionen": "The Police Museum is a free museum located in Hervanta, showcasing the work and history of the police. The museum displays police equipment, vehicles, and historical objects. It is easy to reach here from the city center by tram.",
+    "googlemapslink": "https://maps.app.goo.gl/p2zUCm7hjYxMqkGf6",
+    "websitelink": "https://www.poliisimuseo.fi/"
+  },
+  {
+    "name": "Kalevankankaan hautausmaa",
+    "badges": ["noteworthylocation","monument", "free"],
+    "descriptionfi": "Kalevankankaan hautausmaa on hautausmaa, joka on perustettu vuonna 1880. Hautausmaa on tunnettu monista merkittävistä haudoista ja upeista muistomerkeistä. Sieltä löytyy myös näköalapaikka ja sankarihaudat.",
+    "descriptionen": "Kalevankangas Cemetery is a cemetery established in 1880. The cemetery is known for its many significant graves and magnificent monuments. It also features a viewpoint and war graves.",
+    "googlemapslink": "https://maps.app.goo.gl/gfTcjtqVkjCa1WM79"
+  },
+  {
+    "name": "Sorsapuisto",
+    "badges": ["park", "citycenter", "free"],
+    "descriptionfi": "Sorsapuisto on Tampereen maineikkaimpia ja suosituimpia puistoja. Kauniina kesäpäivinä puiston laajoille nurmialueille kerääntyy perheitä, ystäväporukoita tai yksikseen puiston tunnelmasta nauttivia. Puistossa on kolme Viktor Janssonin veistosta, jotka valaistaan pimeään aikaan. Puistossa on myös Väinö Rickhard Rautalinin Tanssiva tyttö -veistos ja vesisuihku.",
+    "descriptionen": "Sorsapuisto is one of Tampere's most renowned and popular parks. On beautiful summer days, the park's vast lawns attract families, groups of friends, and individuals enjoying the park's atmosphere. The park features three sculptures by Viktor Jansson, which are illuminated at night. The park also includes Väinö Rickhard Rautalin's Dancing Girl sculpture and a water fountain.",
+    "googlemapslink": "https://maps.app.goo.gl/N9ACcLHQmfdA7tRa7"
+  },
+  {
+    "name": "Pyhän Aleksanteri Nevskin ja Pyhän Nikolaoksen kirkko",
+    "badges": ["church", "citycenter", "landmark"],
+    "descriptionfi": "Pyhän Aleksanteri Nevskin ja Pyhän Nikolaoksen kirkko on Tampereen ortodoksinen kirkko, joka on rakennettu vuosina 1896-1899. Kirkko on ristinmuotoinen ja edustaa uusbysanttilaista kirkkoarkkitehtuuria. Kirkon katolla on seitsemän sipulinmuotoista kupolia, ja sen pääkupoli on 17 metrin korkeudessa.",
+    "descriptionen": "The Church of St. Alexander Nevsky and St. Nicholas is an Orthodox church in Tampere, built between 1896 and 1899. The church is cross-shaped and represents Neo-Byzantine church architecture. The church has seven onion-shaped domes on its roof, with the main dome reaching a height of 17 meters.",
+    "googlemapslink": "https://maps.app.goo.gl/HRbaAGEU5Gv4364m6",
+    "websitelink": "https://www.tampereort.fi/"
+  },
+  {
+    "name": "Finlaysonin kirkko",
+    "badges": ["church", "citycenter"],
+    "descriptionfi": "Finlaysonin kirkko on Tampereen keskustassa sijaitseva pieni kirkko, joka on rakennettu vuonna 1879. Kirkko muistuttaa tyyliltään englantilaista kongregationaalikirkkoa.",
+    "descriptionen": "Finlayson Church is a small church located in the center of Tampere, built in 1879. The church is reminiscent of an English Congregational church in style.",
+    "googlemapslink": "https://maps.app.goo.gl/8TgNwrYNQbh8p2r89",
+    "websitelink": "https://tampereenseurakunnat.fi/kirkko_tampereella/kirkot_ja_kappelit/finlaysonin_kirkko?place_id__31325=7#b4786b8c"
+  },
+  {
+    "name": "Punakaartilaismuistomerkki",
+    "badges": ["monument","noteworthylocation", "free"],
+    "descriptionfi": "Punakaartilaismuistomerkki on Pyykkimetsän puistossa sijaitseva muistomerkki, joka on omistettu vuoden 1918 tapahtumille. Muistomerkki on pystytetty punakaartilaisten muistoksi. Sieltä aukeaa upeat näkymät pyhäjärvelle.",
+    "descriptionen": "The Red Guard Memorial is a monument located in Pyykkimetsä Park, dedicated to the events of 1918. The monument is erected in memory of the Red Guards. It offers stunning views of Lake Pyhäjärvi.",
+    "googlemapslink": "https://maps.app.goo.gl/XmtZ1vHxzaSjiE3r9"
   }
 ]
