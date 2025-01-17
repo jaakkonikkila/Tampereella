@@ -38,8 +38,8 @@ const Drawer = () => {
         </Button>
       </DrawerTrigger>
       <DrawerContent rounded="md" offset="14">
-        <DrawerHeader></DrawerHeader>
-        <DrawerBody mt="-6">
+        <DrawerHeader bgColor={{_light: "var(--background-light)"}}></DrawerHeader>
+        <DrawerBody mt="-6" bgColor={{_light: "var(--background-light)"}}>
           {/* Navigation Links */}
           <VStack as="nav" fontSize="lg" gap="5" fontWeight="medium">
             <ChakraLink href="/food" outline="none">
