@@ -1,8 +1,10 @@
-# Tampereella
+# [Tampereella](https://tampereella.vercel.app/fi)
 
 This is a project built with Next.js 15 and Chakra UI 3, focused on providing a seamless and modern web application experience.
 
 This project showcases my ability to quickly learn and adapt to new technologies, creating a modern, efficient web application while staying up-to-date with the latest frameworks and tools.
+
+Project is hosted with [Vercel](https://vercel.com/): https://tampereella.vercel.app/fi
 
 ## Technologies Used
 
