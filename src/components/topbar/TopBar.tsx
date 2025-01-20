@@ -54,8 +54,8 @@ export const Topbar = async () => {
           <ChakraLink href="/activities" outline="none">
             {t("activities")}
           </ChakraLink>
-          <ChakraLink href="/sports" outline="none">
-            {t("sports")}
+          <ChakraLink href="/events" outline="none">
+            {t("events")}
           </ChakraLink>
         </HStack>
 

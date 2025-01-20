@@ -4,7 +4,8 @@
     "sports": "Urheilu 🏅",
     "accommodation": "Majoitus 🏨",
     "sights": "Nähtävyydet 🏞️",
-    "activities": "Aktiviteetit 🎨"
+    "activities": "Aktiviteetit 🎨",
+    "events": "Tapahtumat 🎉"
   },
   "Footer": {
     "websitemadewith": "Tämä sivusto on tehty Next.js:llä",
@@ -85,5 +86,16 @@
     "hiking": "Patikointi / kävely 🥾",
     "citycenter": "Keskusta 🏙️",
     "special": "Erityinen 🌟"
+  },
+  "Eventspage": {
+    "music": "Musiikki 🎵",
+    "sports": "Urheilu 🏅",
+    "food": "Ruoka 🍽️",
+    "culture": "Kulttuuri 🎭",
+    "citycenter": "Keskusta 🏙️",
+    "free": "Ilmainen 🆓",
+    "special": "Erityinen 🌟",
+    "general": "Yleinen 🌐",
+    "film": "Elokuva 🎥"
   }
 }

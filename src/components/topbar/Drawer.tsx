@@ -38,8 +38,10 @@ const Drawer = () => {
         </Button>
       </DrawerTrigger>
       <DrawerContent rounded="md" offset="14">
-        <DrawerHeader bgColor={{_light: "var(--background-light)"}}></DrawerHeader>
-        <DrawerBody mt="-6" bgColor={{_light: "var(--background-light)"}}>
+        <DrawerHeader
+          bgColor={{ _light: "var(--background-light)" }}
+        ></DrawerHeader>
+        <DrawerBody mt="-6" bgColor={{ _light: "var(--background-light)" }}>
           {/* Navigation Links */}
           <VStack as="nav" fontSize="lg" gap="5" fontWeight="medium">
             <ChakraLink href="/food" outline="none">
@@ -54,8 +56,8 @@ const Drawer = () => {
             <ChakraLink href="/activities" outline="none">
               {t("activities")}
             </ChakraLink>
-            <ChakraLink href="/sports" outline="none">
-              {t("sports")}
+            <ChakraLink href="/events" outline="none">
+              {t("events")}
             </ChakraLink>
             <HStack gap="5">
               <LanguageSelector />

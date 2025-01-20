@@ -4,7 +4,8 @@
     "sports": "Sports 🏅",
     "accommodation": "Accommodation 🏨",
     "sights": "Sights 🏞️",
-    "activities": "Activities 🎨"
+    "activities": "Activities 🎨",
+    "events": "Events 🎉"
   },
   "Footer": {
     "websitemadewith": "This website was made with Next.js",
@@ -85,5 +86,16 @@
     "hiking": "Hiking / walking 🥾",
     "citycenter": "City center 🏙️",
     "special": "Special ⭐"
+  },
+  "Eventspage": {
+    "music": "Music 🎵",
+    "sports": "Sports 🏅",
+    "food": "Food 🍽️",
+    "citycenter": "City center 🏙️",
+    "special": "Special ⭐",
+    "free": "Free 🆓",
+    "general": "General 🌐",
+    "culture": "Culture 🎭",
+    "film": "Film 🎥"
   }
 }

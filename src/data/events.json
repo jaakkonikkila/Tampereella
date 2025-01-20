@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Tampere Film Festival",
+    "badges": ["film"],
+    "descriptionen": "Tampere Film Festival is an internationally renowned short film festival showcasing documentaries, animations, and experimental films. It includes workshops, discussions, and networking opportunities.",
+    "descriptionfi": "Tampereen elokuvajuhlat on kansainvälisesti arvostettu lyhytelokuvafestivaali, jossa esitetään dokumentteja, animaatioita ja kokeellisia elokuvia. Tapahtumaan kuuluu työpajoja, keskusteluja ja verkostoitumismahdollisuuksia.",
+    "websitelink": "https://tamperefilmfestival.fi/en/"
+  },
+  {
+    "name": "Tammerfest",
+    "badges": ["music"],
+    "descriptionen": "Tammerfest is Tampere's largest city festival with live music performances by Finnish and international artists. The event takes place across various venues in the city.",
+    "descriptionfi": "Tammerfest on Tampereen suurin kaupunkifestivaali, jossa esiintyy suomalaisia ja kansainvälisiä artisteja. Tapahtuma järjestetään eri paikoissa ympäri kaupunkia.",
+    "websitelink": "https://www.tammerfest.fi/"
+  },
+  {
+    "name": "Blockfest",
+    "badges": ["music"],
+    "descriptionen": "Blockfest is one of the largest hip-hop festivals in the Nordic countries. The festival features top artists from Finland and around the world.",
+    "descriptionfi": "Blockfest on yksi Pohjoismaiden suurimmista hip-hop-festivaaleista. Festivaalilla esiintyy huippuartisteja Suomesta ja ulkomailta.",
+    "websitelink": "https://blockfest.fi/en/"
+  },
+  {
+    "name": "Tampere Christmas Market",
+    "badges": ["general", "food", "special", "free"],
+    "descriptionen": "Tampere Christmas Market is a traditional holiday market located at Keskustori. It offers crafts, holiday treats, and a festive atmosphere.",
+    "descriptionfi": "Tampereen joulutori on perinteinen joulumarkkina Keskustorilla. Se tarjoaa käsitöitä, jouluisia herkkuja ja tunnelmallisen ilmapiirin.",
+    "websitelink": "https://joulutori.tampere.fi/"
+  },
+  {
+    "name": "Tampere Jazz Happening",
+    "badges": ["music"],
+    "descriptionen": "Tampere Jazz Happening is an internationally recognized jazz festival featuring world-class musicians. It offers innovative performances in an intimate atmosphere.",
+    "descriptionfi": "Tampere Jazz Happening on kansainvälisesti tunnettu jazzfestivaali, jossa esiintyy maailmanluokan muusikoita. Festivaali tarjoaa innovatiivisia esityksiä intiimissä ilmapiirissä.",
+    "websitelink": "https://www.tamperejazz.fi/"
+  },
+  {
+    "name": "Lost in Music",
+    "badges": ["music"],
+    "descriptionen": "Lost in Music is a showcase festival for emerging Finnish and international artists. It takes place in various clubs and venues in Tampere.",
+    "descriptionfi": "Lost in Music on showcase-festivaali nouseville suomalaisille ja kansainvälisille artisteille. Se järjestetään eri klubeilla ja tapahtumapaikoilla Tampereella.",
+    "websitelink": "https://www.lostinmusic.fi/"
+  },
+  {
+    "name": "Tampere Theatre Festival",
+    "badges": ["culture"],
+    "descriptionen": "Tampere Theatre Festival is one of Europe's most prestigious theatre festivals, featuring classics, experimental performances, and street theatre.",
+    "descriptionfi": "Tampereen Teatterikesä on yksi Euroopan arvostetuimmista teatterifestivaaleista, jossa nähdään klassikoita, kokeellisia esityksiä ja katuteatteria.",
+    "websitelink": "https://www.teatterikesa.fi/en/"
+  },
+  {
+    "name": "Pirkan Kierros",
+    "badges": ["sports"],
+    "descriptionen": "Pirkan Kierros events, including Pirkan Hiihto, Pirkan Pyöräily, Pirkan Soutu, and Pirkan Hölkkä, have motivated Finnish fitness enthusiasts for over 40 years. The goal is to offer challenges throughout the year, in line with the motto 'A year-round healthy life.' The aim is to inspire people of all fitness levels and ages to engage in various sports and take care of their health.",
+    "descriptionfi": "Pirkan Kierros -tapahtumat, mukaan lukien Pirkan Hiihto, Pirkan Pyöräily, Pirkan Soutu ja Pirkan Hölkkä, ovat motivoineet suomalaisia kuntoilijoita yli 40 vuoden ajan. Tavoitteena on tarjota haasteita ympäri vuoden moton 'Ympärivuotinen terve elämä' mukaisesti. Tarkoituksena on innostaa kaiken kuntoisia ja ikäisiä ihmisiä harrastamaan erilaisia urheilulajeja ja huolehtimaan terveydestään.",
+    "websitelink": "https://www.pirkankierros.fi/"
+  },
+  {
+    "name": "Tampere Maraton",
+    "badges": ["sports"],
+    "descriptionen": "Tampere Maraton is a running event offering full marathon, half marathon, and shorter distance options, taking runners through scenic parts of the city.",
+    "descriptionfi": "Tampere Maraton on juoksutapahtuma, jossa voi osallistua kokonaiselle maratonille, puolimaratonille tai lyhyemmille matkoille. Reitti kulkee kaupungin kauniiden maisemien halki.",
+    "websitelink": "https://www.tamperemaraton.fi/"
+  },
+  {
+    "name": "Nokia Arena and Other Sports Venues",
+    "badges": ["sports", "special"],
+    "descriptionen": "Nokia Arena, one of the largest and most modern arenas in Finland, hosts thrilling ice hockey games, including matches featuring the local powerhouse teams, Tappara and Ilves. In addition to hockey, the arena hosts various events such as concerts and other sports competitions. Just a short distance away, the newly renovated Tammelan Stadium is home to Ilves football, offering an exciting experience for football fans. For athletics and other sports, Ratinan Stadion provides top-notch facilities for track and field events. Whether you're a fan of hockey, football, athletics, or concerts, Tampere's sports venues offer something for everyone.",
+    "descriptionfi": "Nokia Arena, yksi Suomen suurimmista ja moderneimmista areenoista, isännöi jännittäviä jääkiekko-otteluita, joissa kilpailevat paikalliset huipputiimit Tappara ja Ilves. Areena tarjoaa myös monenlaisia tapahtumia, kuten konsertteja ja muita urheilukilpailuja. Lyhyen matkan päässä sijaitsee uudistettu Tammelan stadion, joka on Ilveksen kotikenttä jalkapallon ystäville. Yleisurheilulle ja muille lajeille Ratinan stadion tarjoaa huipputason fasiliteetit. Tampereen urheilupaikat tarjoavat elämyksiä niin jääkiekon, jalkapallon, yleisurheilun kuin konserttien ystäville.",
+    "websitelink": "https://www.lippu.fi/city/tampere-112/urheilu-48/?shownonbookable=true"
+  },
+  {
+    "name": "Valoviikot",
+    "badges": ["general", "special", "free"],
+    "descriptionen": "Valoviikot, or Light Weeks, is an annual event in Tampere that brightens up the dark winter months. The city is illuminated with beautiful light installations, creating a magical atmosphere for residents and visitors alike. The event includes light art, performances, and activities for all ages.",
+    "descriptionfi": "Valoviikot on vuosittainen tapahtuma Tampereella, joka valaisee pimeitä talvikuukausia. Kaupunki valaistaan kauniilla valoteoksilla, luoden taianomaisen tunnelman asukkaille ja vierailijoille. Tapahtumaan kuuluu valotaiteita, esityksiä ja aktiviteetteja kaikenikäisille.",
+    "websitelink": "https://valoviikot.tampere.fi/"
+  },
+  {
+    "name": "Pinxtofestivaali",
+    "badges": ["general", "food"],
+    "descriptionen": "Pintxofestivaali is Finland's largest restaurant festival, where restaurants offer their best gastronomic skills in small dishes called pintxos at an affordable price for five days. The public moves around the city and gets to know new restaurants. Pintxo differs from tapas in that pintxo is enjoyed in 2-3 bites personally, while tapas dishes are shared among the group.",
+    "descriptionfi": "Pintxofestivaali on Suomen suurin ravintolafestivaali, jossa ravintolat tarjoavat parasta gastronomista osaamistaan pienissä annoksissa, joita kutsutaan pintxoiksi edulliseen hintaan viiden päivän ajan. Yleisö liikkuu kaupungilla ja tutustuu uusiin ravintoloihin. Pintxo eroaa tapaksesta siten, että pintxo nautitaan 2-3 suupalan verran henkilökohtaisesti, kun taas tapas-annokset jaetaan ryhmän kesken.",
+    "websitelink": "https://www.tamperrada.fi/"
+  }
+]
