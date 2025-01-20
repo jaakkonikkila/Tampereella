@@ -5,7 +5,7 @@ const config = defineConfig({
     ":root": {
       "--background-light": "#f0f0f0", // Default for light mode
       "--foreground-light": "#171717", // Default for light mode
-      "--background-dark": "#0B0C10" /* Charcoal black */,
+      "--background-dark": "#0B0C10", // Default for dark mode,
       "--foreground-dark": "#ededed", // Default for dark mode
     },
     "html, body": {
@@ -17,7 +17,7 @@ const config = defineConfig({
         bgColor: "var(--background-dark)",
         color: "var(--foreground-dark)",
       },
-      transition: "background-color 1s ease, color 1s ease", // Smooth transition for theme switching
+      transition: "background-color 1s ease, color 1s ease",
     },
     ".card": {
       _light: {

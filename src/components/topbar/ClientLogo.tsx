@@ -13,6 +13,7 @@ const ClientLogo = () => {
       : "/tampereella-logo-black.png";
 
   return (
+    // Clientside only component so we can change the logo based on the color mode
     <ClientOnly
       fallback={
         <Skeleton>

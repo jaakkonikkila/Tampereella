@@ -14,14 +14,15 @@ import { useLocale } from "next-intl";
 
 interface CustomCardProps {
   type: string; // We use this to get translations
-  title: string;
-  descriptionFi: string;
-  descriptionEn: string;
-  badges?: string[]; // Just an array of badge labels
-  googleMapsLink?: string;
-  websiteLink?: string;
+  title: string; // Title of the card
+  descriptionFi: string; // Description in Finnish
+  descriptionEn: string; // Description in English
+  badges?: string[]; // An array of badge labels
+  googleMapsLink?: string; // Google Maps link
+  websiteLink?: string; // Website link
 }
 
+// Custom card component that has distinct sizes and has a popover for long descriptions
 const CustomCard = ({
   type,
   title,

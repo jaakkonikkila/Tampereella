@@ -4,8 +4,8 @@ import { useState } from "react";
 import { Grid, Flex, Center } from "@chakra-ui/react";
 import Card from "@/components/Card";
 import Filter from "@/components/Filter";
-import sightsData from "@/data/sights.json";
 import ScrollToTop from "@/components/ScrollToTopButton";
+import sightsData from "@/data/sights.json";
 
 const SightsPage = () => {
   const [selectedFilters, setSelectedFilters] = useState<string[]>([]);

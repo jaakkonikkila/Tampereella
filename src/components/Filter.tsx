@@ -5,10 +5,10 @@ import { Button, HStack, Text } from "@chakra-ui/react";
 import { useTranslations } from "next-intl";
 
 interface FilterProps {
-  options: string[];
-  type: string;
+  options: string[]; // Array of filter options
+  type: string; // We use this to get translations
   singleSelect?: boolean; // for single selection mode
-  onFilterChange: (selectedFilters: string[]) => void;
+  onFilterChange: (selectedFilters: string[]) => void; // Callback function
 }
 
 const Filter: React.FC<FilterProps> = ({

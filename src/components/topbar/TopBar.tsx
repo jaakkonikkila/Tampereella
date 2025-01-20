@@ -63,11 +63,10 @@ export const Topbar = async () => {
 
         {/* Drawer only shows on small screens (mobile) */}
         <Drawer />
-        {/* Language Selector */}
+        {/* Language Selector and Theme Switcher on desktop */}
         <Box ml={4} display={{ base: "none", lg: "flex" }}>
           <LanguageSelector />
         </Box>
-        {/* Theme Switcher */}
         <Box ml={4} display={{ base: "none", lg: "flex" }}>
           <ColorModeButton />
         </Box>

@@ -28,7 +28,7 @@ export default function IntlClientProviderWrapper({
           console.log(error.message);
         }
       }}
-      getMessageFallback={({ key }) => `${key}`}
+      getMessageFallback={({ key }) => `${key}`} // Fallback to the key if the translation is missing
       locale={locale}
       now={now}
       timeZone={timeZone}
