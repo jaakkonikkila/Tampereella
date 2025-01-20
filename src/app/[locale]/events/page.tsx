@@ -52,7 +52,6 @@ const EventsPage = () => {
             descriptionFi={data.descriptionfi}
             descriptionEn={data.descriptionen}
             badges={data.badges}
-            googleMapsLink={data.googlemapslink}
             websiteLink={data.websitelink}
           />
         ))}
