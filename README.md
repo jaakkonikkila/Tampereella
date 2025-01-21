@@ -21,6 +21,17 @@ Project is hosted with [Vercel](https://vercel.com/): https://tampereella.vercel
 - **Dark Mode Support**: Dark mode support for those who don't want to get blinded ;)
 - **Custom reusable components**: Custom reusable components for modularity. For example Card and Filter components.
 
+## Explanation and thought process
+
+- The webpage consists of a homepage and multiple content pages.
+- I use reusable custom components for the content pages.
+- Card component is used to display the content. Card component varies in size with restrictions. It has option to display Google Maps link and Website link. It has popover action for long descriptions and better readability. 
+- Filter component is used in all content pages and it has options for single and multiselect.
+- ScrollToTopButton is displayed when needed on the content pages to easily navigate to the top of the page.
+- User can choose the language and prefered color mode from the TopBar.
+- TopBar on mobile has logo and openable drawer with the navigation links and language and color mode selectors. On Desktop they are directly shown on the TopBar.
+- Footer scales with the device size.
+
 ## Getting Started
 
 First, run the development server:
