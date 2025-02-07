@@ -29,7 +29,13 @@ export const Topbar = async () => {
     >
       <Flex align="center">
         {/* Logo Section */}
-        <ChakraLink href="/" maxWidth="200px" flexShrink={0} outline="none">
+        <ChakraLink
+          href="/"
+          maxWidth="200px"
+          flexShrink={0}
+          outline="none"
+          mt="-2"
+        >
           <ClientLogo />
         </ChakraLink>
 
