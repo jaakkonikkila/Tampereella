@@ -3,7 +3,7 @@
 import { usePathname, useRouter } from "@/i18n/routing";
 import { IconButton } from "@chakra-ui/react";
 import { Tooltip } from "@/components/ui/tooltip";
-import Flag from "react-world-flags";
+import Image from "next/image";
 import { useLocale } from "next-intl";
 
 const LanguageSelector = () => {
@@ -24,7 +24,12 @@ const LanguageSelector = () => {
         background="transparent" // Makes the background transparent
         onClick={() => handleLanguageChange(locale === "fi" ? "en" : "fi")}
       >
-        <Flag code={locale === "fi" ? "FI" : "GB"} width="30px" height="25px" />
+        <Image
+          src={`https://flagcdn.com/w40/${locale === "fi" ? "fi" : "gb"}.png`}
+          alt="Language Flag"
+          width={30}
+          height={30}
+        />
       </IconButton>
     </Tooltip>
   );

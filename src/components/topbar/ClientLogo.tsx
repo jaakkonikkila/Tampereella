@@ -2,7 +2,7 @@
 
 import { useColorMode } from "@/components/ui/color-mode";
 import { ClientOnly, Skeleton, Box } from "@chakra-ui/react";
-import { Image } from "@chakra-ui/react";
+import Image from "next/image";
 
 const ClientLogo = () => {
   const { colorMode } = useColorMode();
@@ -17,17 +17,16 @@ const ClientLogo = () => {
     <ClientOnly
       fallback={
         <Skeleton>
-          <Box width="177px" mt="-2" height="49px"></Box>
+          <Box width="200px" height="55px"></Box>
         </Skeleton>
       }
     >
       <Image
         src={logoSrc}
         alt="Tampereella"
-        objectFit="contain"
-        boxSize="100%"
-        maxH="50px" // Limits the logo height
-        mt="-2"
+        width={200} // Fixed width for the image (matches Chakra's box size)
+        height={50} // Fixed height for the image (matches Chakra's box size)
+        objectFit="contain" // Keep the aspect ratio while fitting the container
       />
     </ClientOnly>
   );
